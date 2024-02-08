@@ -1,0 +1,41 @@
+2024-02-07 20:15:03,496 - INFO - {'url': '/docs', 'method': 'GET'}
+2024-02-07 20:15:04,413 - INFO - {'url': '/openapi.json', 'method': 'GET'}
+2024-02-07 20:15:40,350 - INFO - {'url': '/', 'method': 'GET'}
+2024-02-07 20:19:21,386 - INFO - {'url': '/', 'method': 'GET', 'process_time': 0.00048277099995175377}
+2024-02-07 20:19:26,793 - INFO - {'url': '/docs', 'method': 'GET', 'process_time': 0.0008818499991321005}
+2024-02-07 20:19:27,197 - INFO - {'url': '/openapi.json', 'method': 'GET', 'process_time': 0.007896204995631706}
+2024-02-07 20:19:31,034 - INFO - {'url': '/redoc', 'method': 'GET', 'process_time': 0.00020712400146294385}
+2024-02-07 20:19:31,481 - INFO - {'url': '/openapi.json', 'method': 'GET', 'process_time': 0.0004699220007751137}
+2024-02-08 10:18:25,311 - INFO - {'url': '/docs', 'method': 'GET', 'process_time': 0.0007068959994285251}
+2024-02-08 10:18:26,530 - INFO - {'url': '/openapi.json', 'method': 'GET', 'process_time': 0.010084180000376364}
+2024-02-08 10:18:43,185 - INFO - {'url': '/auth/token', 'method': 'POST', 'process_time': 0.3146406149999166}
+2024-02-08 10:19:31,023 - INFO - {'url': '/docs', 'method': 'GET', 'process_time': 0.00035466100052872207}
+2024-02-08 10:19:31,836 - INFO - {'url': '/openapi.json', 'method': 'GET', 'process_time': 0.012568086999635852}
+2024-02-08 10:19:38,409 - INFO - {'url': '/user/', 'method': 'GET', 'process_time': 0.0379296749997593}
+2024-02-08 10:19:47,790 - INFO - {'url': '/auth/token', 'method': 'POST', 'process_time': 0.2953551989994594}
+2024-02-08 10:19:51,555 - INFO - {'url': '/user/', 'method': 'GET', 'process_time': 0.01879371099948912}
+2024-02-08 10:20:12,070 - INFO - {'url': '/user/change_password', 'method': 'PUT', 'process_time': 0.2558340129999124}
+2024-02-08 10:20:26,201 - INFO - {'url': '/auth/token', 'method': 'POST', 'process_time': 0.23635631800061674}
+2024-02-08 10:20:32,515 - INFO - {'url': '/auth/token', 'method': 'POST', 'process_time': 0.26862385499953234}
+2024-02-08 10:20:45,385 - INFO - {'url': '/docs', 'method': 'GET', 'process_time': 0.0003439860001890338}
+2024-02-08 10:20:46,188 - INFO - {'url': '/openapi.json', 'method': 'GET', 'process_time': 0.012999505999687244}
+2024-02-08 10:20:56,404 - INFO - {'url': '/auth/token', 'method': 'POST', 'process_time': 0.2934265140002026}
+2024-02-08 10:21:04,418 - INFO - {'url': '/user/change_password', 'method': 'PUT', 'process_time': 0.25096288100030506}
+2024-02-08 10:21:19,523 - INFO - {'url': '/auth/token', 'method': 'POST', 'process_time': 0.23669223900014913}
+2024-02-08 10:21:25,928 - INFO - {'url': '/user/', 'method': 'GET', 'process_time': 0.014320342999781133}
+2024-02-08 10:40:59,779 - INFO - {'url': '/docs', 'method': 'GET', 'process_time': 0.00038161800057423534}
+2024-02-08 10:41:00,620 - INFO - {'url': '/openapi.json', 'method': 'GET', 'process_time': 0.013153634999980568}
+2024-02-08 10:41:17,770 - INFO - {'url': '/auth/token', 'method': 'POST', 'process_time': 0.35368150700014667}
+2024-02-08 10:41:33,682 - INFO - {'url': '/user/change_password', 'method': 'PUT', 'process_time': 0.5073411530001977}
+2024-02-08 14:33:09,971 - INFO - {'url': '/docs', 'method': 'GET', 'process_time': 0.00036835499849985354}
+2024-02-08 14:33:11,171 - INFO - {'url': '/openapi.json', 'method': 'GET', 'process_time': 0.00955087400143384}
+2024-02-08 14:37:51,583 - INFO - {'url': '/docs', 'method': 'GET', 'process_time': 0.0005320769996615127}
+2024-02-08 14:37:52,514 - INFO - {'url': '/openapi.json', 'method': 'GET', 'process_time': 0.010869058998650871}
+2024-02-08 14:38:04,870 - INFO - {'url': '/auth/token', 'method': 'POST', 'process_time': 0.04735250800149515}
+2024-02-08 14:38:13,201 - INFO - {'url': '/auth/token', 'method': 'POST', 'process_time': 0.002630837003380293}
+2024-02-08 14:38:28,296 - INFO - {'url': '/auth/token', 'method': 'POST', 'process_time': 0.002100009998684982}
+2024-02-08 14:39:31,200 - INFO - {'url': '/auth/', 'method': 'POST', 'process_time': 0.35435603900259594}
+2024-02-08 14:39:55,331 - INFO - {'url': '/auth/token', 'method': 'POST', 'process_time': 0.004750670999783324}
+2024-02-08 14:40:02,461 - INFO - {'url': '/auth/token', 'method': 'POST', 'process_time': 0.2738931730018521}
+2024-02-08 14:40:11,514 - INFO - {'url': '/user/phonenumber/+573108393581', 'method': 'PUT', 'process_time': 0.012734995001665084}
+2024-02-08 14:40:21,481 - INFO - {'url': '/user/', 'method': 'GET', 'process_time': 0.0029461310004990082}
