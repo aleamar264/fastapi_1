@@ -303,3 +303,107 @@ Also allow to change a SQLAlchemy table after created this.
 |alembic revision -m "<message>"| Create a new revision of the enviroment|
 |alembic upgrade <revision #>|Run upgrade on our database|
 |alembic downgrade -1| Run downgrade in our database|
+
+# Testing
+
+Exist 3 types of testing:
+- Manual
+- Unit:
+ - Involve testing individual components or units of software in isolation from the rest of the application.
+ - Validate each unit of the software performs as designed.
+- Integration:
+ - Focus on testing the interaction between differents units or components of the piece of software.
+  - Test multiple unit together.
+
+
+To make test, we need to create a folder named `test` and inside create a file called `__init__.py`. All the test should be called with `test_`.
+
+In the root folder we can run the test using:
+```shell
+pytest
+```
+
+To create a object can be reutilizable in all the test, we can use the propertie called `fixture`.
+
+```python
+@pytest.fixture
+def default_emplyee():
+  return Student('Jhon', 'Doe', 'Computer Science', 3)
+
+def test_person_initialization(default_employee):
+  assert default_employee.first_name == 'Jhon'
+```
+
+## Test FastApi
+
+```python
+from fastapi.testclient import TestClient
+import main
+from httpx import Response
+from fastapi import status
+
+client = TestClient(main.app)
+
+
+def test_return_health_check():
+    response: Response = client.get("/healthy")
+    assert response.status_code == status.HTTP_200_OK
+    assert response.json() == {"status": "Healthy"}
+```
+
+```shell
+pytest --disable-warnings
+```
+
+### Test dependency
+
+To test dependecy in FastAPI and pytest, in a new file we need to create a SQLite dabatase (Only for testing), and override some functions which are the dependency of our app.
+
+```python
+from sqlalchemy import create_engine
+from sqlalchemy.orm import sessionmaker
+from sqlalchemy.pool import StaticPool
+from database import Base
+SQLALCHEMY_URL = "sqlite:///./testdb.db"
+
+engine = create_engine(
+    SQLALCHEMY_URL,
+    connect_args={"check_same_thread": False},
+    poolclass=StaticPool,
+)
+
+TestingSessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)
+Base.metadata.create_all(bind=engine)
+```
+
+It's the same behavior for any database. After that create the override functions
+```python
+def override_get_db():
+    db = TestingSessionLocal()
+    try:
+        yield db
+    finally:
+        db.close()
+
+def override_get_current_user():
+    return {"username": "aleamar264", "id": 1, "role": "admin"}
+```
+
+And use the option from the app of FastAPI to override the dependency
+```python
+app.dependency_overrides[get_db] = override_get_db
+app.dependency_overrides[get_current_user] = override_get_current_user
+```
+
+and add this to the test client.
+```python
+client = TestClient(app)
+```
+
+With this config we can test the route for get all the database.
+```python
+def test_read_all_authenticated():
+    response: Response = client.get("/")
+    assert response.status_code == status.HTTP_200_OK
+    assert response.json() == []
+```
