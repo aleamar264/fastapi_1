@@ -1,0 +1,1030 @@
+2024-02-07 20:15:03,496 - INFO - {'url': '/docs', 'method': 'GET'}
+2024-02-07 20:15:04,413 - INFO - {'url': '/openapi.json', 'method': 'GET'}
+2024-02-07 20:15:40,350 - INFO - {'url': '/', 'method': 'GET'}
+2024-02-07 20:19:21,386 - INFO - {'url': '/', 'method': 'GET', 'process_time': 0.00048277099995175377}
+2024-02-07 20:19:26,793 - INFO - {'url': '/docs', 'method': 'GET', 'process_time': 0.0008818499991321005}
+2024-02-07 20:19:27,197 - INFO - {'url': '/openapi.json', 'method': 'GET', 'process_time': 0.007896204995631706}
+2024-02-07 20:19:31,034 - INFO - {'url': '/redoc', 'method': 'GET', 'process_time': 0.00020712400146294385}
+2024-02-07 20:19:31,481 - INFO - {'url': '/openapi.json', 'method': 'GET', 'process_time': 0.0004699220007751137}
+2024-02-08 10:18:25,311 - INFO - {'url': '/docs', 'method': 'GET', 'process_time': 0.0007068959994285251}
+2024-02-08 10:18:26,530 - INFO - {'url': '/openapi.json', 'method': 'GET', 'process_time': 0.010084180000376364}
+2024-02-08 10:18:43,185 - INFO - {'url': '/auth/token', 'method': 'POST', 'process_time': 0.3146406149999166}
+2024-02-08 10:19:31,023 - INFO - {'url': '/docs', 'method': 'GET', 'process_time': 0.00035466100052872207}
+2024-02-08 10:19:31,836 - INFO - {'url': '/openapi.json', 'method': 'GET', 'process_time': 0.012568086999635852}
+2024-02-08 10:19:38,409 - INFO - {'url': '/user/', 'method': 'GET', 'process_time': 0.0379296749997593}
+2024-02-08 10:19:47,790 - INFO - {'url': '/auth/token', 'method': 'POST', 'process_time': 0.2953551989994594}
+2024-02-08 10:19:51,555 - INFO - {'url': '/user/', 'method': 'GET', 'process_time': 0.01879371099948912}
+2024-02-08 10:20:12,070 - INFO - {'url': '/user/change_password', 'method': 'PUT', 'process_time': 0.2558340129999124}
+2024-02-08 10:20:26,201 - INFO - {'url': '/auth/token', 'method': 'POST', 'process_time': 0.23635631800061674}
+2024-02-08 10:20:32,515 - INFO - {'url': '/auth/token', 'method': 'POST', 'process_time': 0.26862385499953234}
+2024-02-08 10:20:45,385 - INFO - {'url': '/docs', 'method': 'GET', 'process_time': 0.0003439860001890338}
+2024-02-08 10:20:46,188 - INFO - {'url': '/openapi.json', 'method': 'GET', 'process_time': 0.012999505999687244}
+2024-02-08 10:20:56,404 - INFO - {'url': '/auth/token', 'method': 'POST', 'process_time': 0.2934265140002026}
+2024-02-08 10:21:04,418 - INFO - {'url': '/user/change_password', 'method': 'PUT', 'process_time': 0.25096288100030506}
+2024-02-08 10:21:19,523 - INFO - {'url': '/auth/token', 'method': 'POST', 'process_time': 0.23669223900014913}
+2024-02-08 10:21:25,928 - INFO - {'url': '/user/', 'method': 'GET', 'process_time': 0.014320342999781133}
+2024-02-08 10:40:59,779 - INFO - {'url': '/docs', 'method': 'GET', 'process_time': 0.00038161800057423534}
+2024-02-08 10:41:00,620 - INFO - {'url': '/openapi.json', 'method': 'GET', 'process_time': 0.013153634999980568}
+2024-02-08 10:41:17,770 - INFO - {'url': '/auth/token', 'method': 'POST', 'process_time': 0.35368150700014667}
+2024-02-08 10:41:33,682 - INFO - {'url': '/user/change_password', 'method': 'PUT', 'process_time': 0.5073411530001977}
+2024-02-08 14:33:09,971 - INFO - {'url': '/docs', 'method': 'GET', 'process_time': 0.00036835499849985354}
+2024-02-08 14:33:11,171 - INFO - {'url': '/openapi.json', 'method': 'GET', 'process_time': 0.00955087400143384}
+2024-02-08 14:37:51,583 - INFO - {'url': '/docs', 'method': 'GET', 'process_time': 0.0005320769996615127}
+2024-02-08 14:37:52,514 - INFO - {'url': '/openapi.json', 'method': 'GET', 'process_time': 0.010869058998650871}
+2024-02-08 14:38:04,870 - INFO - {'url': '/auth/token', 'method': 'POST', 'process_time': 0.04735250800149515}
+2024-02-08 14:38:13,201 - INFO - {'url': '/auth/token', 'method': 'POST', 'process_time': 0.002630837003380293}
+2024-02-08 14:38:28,296 - INFO - {'url': '/auth/token', 'method': 'POST', 'process_time': 0.002100009998684982}
+2024-02-08 14:39:31,200 - INFO - {'url': '/auth/', 'method': 'POST', 'process_time': 0.35435603900259594}
+2024-02-08 14:39:55,331 - INFO - {'url': '/auth/token', 'method': 'POST', 'process_time': 0.004750670999783324}
+2024-02-08 14:40:02,461 - INFO - {'url': '/auth/token', 'method': 'POST', 'process_time': 0.2738931730018521}
+2024-02-08 14:40:11,514 - INFO - {'url': '/user/phonenumber/+573108393581', 'method': 'PUT', 'process_time': 0.012734995001665084}
+2024-02-08 14:40:21,481 - INFO - {'url': '/user/', 'method': 'GET', 'process_time': 0.0029461310004990082}
+2024-02-09 10:22:56,966 - INFO - {'url': '/healthy', 'method': 'GET', 'process_time': 0.001392492999912065}
+2024-02-09 10:22:56,968 - INFO - HTTP Request: GET http://testserver/healthy "HTTP/1.1 200 OK"
+2024-02-09 10:23:05,241 - INFO - {'url': '/healthy', 'method': 'GET', 'process_time': 0.0007800600005793967}
+2024-02-09 10:23:05,242 - INFO - HTTP Request: GET http://testserver/healthy "HTTP/1.1 200 OK"
+2024-02-09 10:30:23,448 - INFO - {'url': '/healthy', 'method': 'GET', 'process_time': 0.0009990329999709502}
+2024-02-09 10:30:23,462 - INFO - HTTP Request: GET http://testserver/healthy "HTTP/1.1 200 OK"
+2024-02-09 10:51:49,386 - INFO - {'url': '/healthy', 'method': 'GET', 'process_time': 0.0009480039998379652}
+2024-02-09 10:51:49,387 - INFO - HTTP Request: GET http://testserver/healthy "HTTP/1.1 200 OK"
+2024-02-09 10:53:21,668 - INFO - {'url': '/healthy', 'method': 'GET', 'process_time': 0.0009729909997986397}
+2024-02-09 10:53:21,670 - INFO - HTTP Request: GET http://testserver/healthy "HTTP/1.1 200 OK"
+2024-02-09 10:53:21,679 - INFO - {'url': '/', 'method': 'GET', 'process_time': 0.005851011000231665}
+2024-02-09 10:53:21,680 - INFO - HTTP Request: GET http://testserver/ "HTTP/1.1 200 OK"
+2024-02-09 10:53:50,268 - INFO - {'url': '/healthy', 'method': 'GET', 'process_time': 0.000945562000197242}
+2024-02-09 10:53:50,270 - INFO - HTTP Request: GET http://testserver/healthy "HTTP/1.1 200 OK"
+2024-02-09 10:53:50,278 - INFO - {'url': '/', 'method': 'GET', 'process_time': 0.005629127000247536}
+2024-02-09 10:53:50,279 - INFO - HTTP Request: GET http://testserver/ "HTTP/1.1 200 OK"
+2024-02-09 18:20:31,138 - INFO - {'url': '/healthy', 'method': 'GET', 'process_time': 0.000812163001683075}
+2024-02-09 18:20:31,140 - INFO - HTTP Request: GET http://testserver/healthy "HTTP/1.1 200 OK"
+2024-02-09 18:20:43,219 - INFO - {'url': '/healthy', 'method': 'GET', 'process_time': 0.0009473540048929863}
+2024-02-09 18:20:43,220 - INFO - HTTP Request: GET http://testserver/healthy "HTTP/1.1 200 OK"
+2024-02-09 18:21:00,505 - INFO - {'url': '/healthy', 'method': 'GET', 'process_time': 0.0009764200003701262}
+2024-02-09 18:21:00,506 - INFO - HTTP Request: GET http://testserver/healthy "HTTP/1.1 200 OK"
+2024-02-09 18:21:00,523 - INFO - {'url': '/', 'method': 'GET', 'process_time': 0.004967881002812646}
+2024-02-09 18:21:00,525 - INFO - HTTP Request: GET http://testserver/ "HTTP/1.1 200 OK"
+2024-02-09 18:21:50,522 - INFO - {'url': '/healthy', 'method': 'GET', 'process_time': 0.0011429189980844967}
+2024-02-09 18:21:50,524 - INFO - HTTP Request: GET http://testserver/healthy "HTTP/1.1 200 OK"
+2024-02-09 18:21:50,538 - INFO - {'url': '/', 'method': 'GET', 'process_time': 0.004630766001355369}
+2024-02-09 18:21:50,539 - INFO - HTTP Request: GET http://testserver/ "HTTP/1.1 200 OK"
+2024-02-09 18:22:13,154 - INFO - {'url': '/healthy', 'method': 'GET', 'process_time': 0.0009994830033974722}
+2024-02-09 18:22:13,155 - INFO - HTTP Request: GET http://testserver/healthy "HTTP/1.1 200 OK"
+2024-02-09 18:22:13,170 - INFO - {'url': '/', 'method': 'GET', 'process_time': 0.0051431649990263395}
+2024-02-09 18:22:13,172 - INFO - HTTP Request: GET http://testserver/ "HTTP/1.1 200 OK"
+2024-02-09 18:22:55,427 - INFO - {'url': '/healthy', 'method': 'GET', 'process_time': 0.0008503720018779859}
+2024-02-09 18:22:55,428 - INFO - HTTP Request: GET http://testserver/healthy "HTTP/1.1 200 OK"
+2024-02-09 18:22:55,448 - INFO - {'url': '/', 'method': 'GET', 'process_time': 0.003270430002885405}
+2024-02-09 18:22:55,449 - INFO - HTTP Request: GET http://testserver/ "HTTP/1.1 200 OK"
+2024-02-09 18:23:12,499 - INFO - {'url': '/healthy', 'method': 'GET', 'process_time': 0.0007842370032449253}
+2024-02-09 18:23:12,500 - INFO - HTTP Request: GET http://testserver/healthy "HTTP/1.1 200 OK"
+2024-02-09 18:23:12,520 - INFO - {'url': '/', 'method': 'GET', 'process_time': 0.00325899100425886}
+2024-02-09 18:23:12,521 - INFO - HTTP Request: GET http://testserver/ "HTTP/1.1 200 OK"
+2024-02-09 18:24:06,885 - INFO - {'url': '/healthy', 'method': 'GET', 'process_time': 0.0008683240012032911}
+2024-02-09 18:24:06,887 - INFO - HTTP Request: GET http://testserver/healthy "HTTP/1.1 200 OK"
+2024-02-09 18:24:06,898 - INFO - {'url': '/', 'method': 'GET', 'process_time': 0.004035621997900307}
+2024-02-09 18:24:06,899 - INFO - HTTP Request: GET http://testserver/ "HTTP/1.1 200 OK"
+2024-02-09 18:32:36,576 - INFO - {'url': '/healthy', 'method': 'GET', 'process_time': 0.0008407390050706454}
+2024-02-09 18:32:36,577 - INFO - HTTP Request: GET http://testserver/healthy "HTTP/1.1 200 OK"
+2024-02-09 18:32:36,590 - INFO - {'url': '/', 'method': 'GET', 'process_time': 0.00435381200077245}
+2024-02-09 18:32:36,591 - INFO - HTTP Request: GET http://testserver/ "HTTP/1.1 200 OK"
+2024-02-09 18:32:36,599 - INFO - {'url': '/todo/1', 'method': 'GET', 'process_time': 0.0023856490006437525}
+2024-02-09 18:32:36,600 - INFO - HTTP Request: GET http://testserver/todo/1 "HTTP/1.1 200 OK"
+2024-02-09 18:33:03,080 - INFO - {'url': '/healthy', 'method': 'GET', 'process_time': 0.0008087410024018027}
+2024-02-09 18:33:03,082 - INFO - HTTP Request: GET http://testserver/healthy "HTTP/1.1 200 OK"
+2024-02-09 18:33:03,101 - INFO - {'url': '/', 'method': 'GET', 'process_time': 0.003172017000906635}
+2024-02-09 18:33:03,103 - INFO - HTTP Request: GET http://testserver/ "HTTP/1.1 200 OK"
+2024-02-09 18:33:03,111 - INFO - {'url': '/todo/1', 'method': 'GET', 'process_time': 0.0026378850016044453}
+2024-02-09 18:33:03,112 - INFO - HTTP Request: GET http://testserver/todo/1 "HTTP/1.1 200 OK"
+2024-02-09 18:33:39,601 - INFO - {'url': '/healthy', 'method': 'GET', 'process_time': 0.0008029919990804046}
+2024-02-09 18:33:39,603 - INFO - HTTP Request: GET http://testserver/healthy "HTTP/1.1 200 OK"
+2024-02-09 18:33:39,614 - INFO - {'url': '/', 'method': 'GET', 'process_time': 0.0037963110007694922}
+2024-02-09 18:33:39,615 - INFO - HTTP Request: GET http://testserver/ "HTTP/1.1 200 OK"
+2024-02-09 18:33:39,624 - INFO - {'url': '/todo/1', 'method': 'GET', 'process_time': 0.00269857699458953}
+2024-02-09 18:33:39,625 - INFO - HTTP Request: GET http://testserver/todo/1 "HTTP/1.1 200 OK"
+2024-02-09 18:33:58,059 - INFO - {'url': '/healthy', 'method': 'GET', 'process_time': 0.0008779609997873195}
+2024-02-09 18:33:58,060 - INFO - HTTP Request: GET http://testserver/healthy "HTTP/1.1 200 OK"
+2024-02-09 18:33:58,072 - INFO - {'url': '/', 'method': 'GET', 'process_time': 0.004220996001095045}
+2024-02-09 18:33:58,073 - INFO - HTTP Request: GET http://testserver/ "HTTP/1.1 200 OK"
+2024-02-09 18:33:58,082 - INFO - {'url': '/todo/1', 'method': 'GET', 'process_time': 0.002726507002080325}
+2024-02-09 18:33:58,083 - INFO - HTTP Request: GET http://testserver/todo/1 "HTTP/1.1 200 OK"
+2024-02-09 18:34:48,621 - INFO - {'url': '/healthy', 'method': 'GET', 'process_time': 0.000805832001788076}
+2024-02-09 18:34:48,622 - INFO - HTTP Request: GET http://testserver/healthy "HTTP/1.1 200 OK"
+2024-02-09 18:34:48,635 - INFO - {'url': '/', 'method': 'GET', 'process_time': 0.0030372059991350397}
+2024-02-09 18:34:48,636 - INFO - HTTP Request: GET http://testserver/ "HTTP/1.1 200 OK"
+2024-02-09 18:34:48,644 - INFO - {'url': '/todo/1', 'method': 'GET', 'process_time': 0.0027870799967786297}
+2024-02-09 18:34:48,645 - INFO - HTTP Request: GET http://testserver/todo/1 "HTTP/1.1 200 OK"
+2024-02-09 18:34:48,652 - INFO - {'url': '/todo/999', 'method': 'GET', 'process_time': 0.0015875129975029267}
+2024-02-09 18:34:48,652 - INFO - HTTP Request: GET http://testserver/todo/999 "HTTP/1.1 404 Not Found"
+2024-02-09 18:38:46,342 - INFO - {'url': '/healthy', 'method': 'GET', 'process_time': 0.000895368997589685}
+2024-02-09 18:38:46,343 - INFO - HTTP Request: GET http://testserver/healthy "HTTP/1.1 200 OK"
+2024-02-09 18:38:46,355 - INFO - {'url': '/', 'method': 'GET', 'process_time': 0.0029574489963124506}
+2024-02-09 18:38:46,357 - INFO - HTTP Request: GET http://testserver/ "HTTP/1.1 200 OK"
+2024-02-09 18:38:46,366 - INFO - {'url': '/todo/1', 'method': 'GET', 'process_time': 0.00265102199773537}
+2024-02-09 18:38:46,367 - INFO - HTTP Request: GET http://testserver/todo/1 "HTTP/1.1 200 OK"
+2024-02-09 18:38:46,375 - INFO - {'url': '/todo/999', 'method': 'GET', 'process_time': 0.0017874740005936474}
+2024-02-09 18:38:46,376 - INFO - HTTP Request: GET http://testserver/todo/999 "HTTP/1.1 404 Not Found"
+2024-02-09 18:38:46,382 - INFO - {'url': '/todo/', 'method': 'POST', 'process_time': 0.00025332000222988427}
+2024-02-09 18:38:46,383 - INFO - HTTP Request: POST http://testserver/todo/ "HTTP/1.1 307 Temporary Redirect"
+2024-02-09 18:38:46,388 - INFO - {'url': '/todo', 'method': 'POST', 'process_time': 0.0035615059969131835}
+2024-02-09 18:38:46,388 - INFO - HTTP Request: POST http://testserver/todo "HTTP/1.1 201 Created"
+2024-02-09 18:41:38,730 - INFO - {'url': '/healthy', 'method': 'GET', 'process_time': 0.0008695459982845932}
+2024-02-09 18:41:38,731 - INFO - HTTP Request: GET http://testserver/healthy "HTTP/1.1 200 OK"
+2024-02-09 18:41:38,742 - INFO - {'url': '/', 'method': 'GET', 'process_time': 0.0033951630030060187}
+2024-02-09 18:41:38,744 - INFO - HTTP Request: GET http://testserver/ "HTTP/1.1 200 OK"
+2024-02-09 18:41:38,752 - INFO - {'url': '/todo/1', 'method': 'GET', 'process_time': 0.002488647005520761}
+2024-02-09 18:41:38,753 - INFO - HTTP Request: GET http://testserver/todo/1 "HTTP/1.1 200 OK"
+2024-02-09 18:41:38,760 - INFO - {'url': '/todo/999', 'method': 'GET', 'process_time': 0.001818983000703156}
+2024-02-09 18:41:38,761 - INFO - HTTP Request: GET http://testserver/todo/999 "HTTP/1.1 404 Not Found"
+2024-02-09 18:41:38,767 - INFO - {'url': '/todo/', 'method': 'POST', 'process_time': 0.0002710750050027855}
+2024-02-09 18:41:38,768 - INFO - HTTP Request: POST http://testserver/todo/ "HTTP/1.1 307 Temporary Redirect"
+2024-02-09 18:41:38,773 - INFO - {'url': '/todo', 'method': 'POST', 'process_time': 0.0037931789993308485}
+2024-02-09 18:41:38,774 - INFO - HTTP Request: POST http://testserver/todo "HTTP/1.1 201 Created"
+2024-02-09 18:45:11,632 - INFO - {'url': '/healthy', 'method': 'GET', 'process_time': 0.0009051070010173135}
+2024-02-09 18:45:11,634 - INFO - HTTP Request: GET http://testserver/healthy "HTTP/1.1 200 OK"
+2024-02-09 18:45:11,649 - INFO - {'url': '/', 'method': 'GET', 'process_time': 0.00358178199530812}
+2024-02-09 18:45:11,650 - INFO - HTTP Request: GET http://testserver/ "HTTP/1.1 200 OK"
+2024-02-09 18:45:11,660 - INFO - {'url': '/todo/1', 'method': 'GET', 'process_time': 0.003259071003412828}
+2024-02-09 18:45:11,661 - INFO - HTTP Request: GET http://testserver/todo/1 "HTTP/1.1 200 OK"
+2024-02-09 18:45:11,670 - INFO - {'url': '/todo/999', 'method': 'GET', 'process_time': 0.002106129002640955}
+2024-02-09 18:45:11,671 - INFO - HTTP Request: GET http://testserver/todo/999 "HTTP/1.1 404 Not Found"
+2024-02-09 18:45:11,677 - INFO - {'url': '/todo/', 'method': 'POST', 'process_time': 0.00035484499676385894}
+2024-02-09 18:45:11,679 - INFO - HTTP Request: POST http://testserver/todo/ "HTTP/1.1 307 Temporary Redirect"
+2024-02-09 18:45:11,684 - INFO - {'url': '/todo', 'method': 'POST', 'process_time': 0.0036906009991071187}
+2024-02-09 18:45:11,685 - INFO - HTTP Request: POST http://testserver/todo "HTTP/1.1 201 Created"
+2024-02-09 18:45:11,697 - INFO - {'url': '/todo/1', 'method': 'PUT', 'process_time': 0.005855746996530797}
+2024-02-09 18:45:11,698 - INFO - HTTP Request: PUT http://testserver/todo/1 "HTTP/1.1 204 No Content"
+2024-02-09 18:49:02,197 - INFO - {'url': '/healthy', 'method': 'GET', 'process_time': 0.0007703589944867417}
+2024-02-09 18:49:02,199 - INFO - HTTP Request: GET http://testserver/healthy "HTTP/1.1 200 OK"
+2024-02-09 18:49:02,210 - INFO - {'url': '/', 'method': 'GET', 'process_time': 0.0031388369970954955}
+2024-02-09 18:49:02,212 - INFO - HTTP Request: GET http://testserver/ "HTTP/1.1 200 OK"
+2024-02-09 18:49:02,220 - INFO - {'url': '/todo/1', 'method': 'GET', 'process_time': 0.002745619996858295}
+2024-02-09 18:49:02,221 - INFO - HTTP Request: GET http://testserver/todo/1 "HTTP/1.1 200 OK"
+2024-02-09 18:49:02,228 - INFO - {'url': '/todo/999', 'method': 'GET', 'process_time': 0.0017921890030265786}
+2024-02-09 18:49:02,229 - INFO - HTTP Request: GET http://testserver/todo/999 "HTTP/1.1 404 Not Found"
+2024-02-09 18:49:02,235 - INFO - {'url': '/todo/', 'method': 'POST', 'process_time': 0.00028213900077389553}
+2024-02-09 18:49:02,236 - INFO - HTTP Request: POST http://testserver/todo/ "HTTP/1.1 307 Temporary Redirect"
+2024-02-09 18:49:02,241 - INFO - {'url': '/todo', 'method': 'POST', 'process_time': 0.003714646998560056}
+2024-02-09 18:49:02,242 - INFO - HTTP Request: POST http://testserver/todo "HTTP/1.1 201 Created"
+2024-02-09 18:49:02,253 - INFO - {'url': '/todo/1', 'method': 'DELETE', 'process_time': 0.004953253999701701}
+2024-02-09 18:49:02,255 - INFO - HTTP Request: DELETE http://testserver/todo/1 "HTTP/1.1 204 No Content"
+2024-02-09 18:49:02,342 - INFO - {'url': '/todo/1', 'method': 'PUT', 'process_time': 0.0057788679987424985}
+2024-02-09 18:49:02,343 - INFO - HTTP Request: PUT http://testserver/todo/1 "HTTP/1.1 204 No Content"
+2024-02-09 18:49:23,909 - INFO - {'url': '/healthy', 'method': 'GET', 'process_time': 0.0008891589968698099}
+2024-02-09 18:49:23,911 - INFO - HTTP Request: GET http://testserver/healthy "HTTP/1.1 200 OK"
+2024-02-09 18:49:23,923 - INFO - {'url': '/', 'method': 'GET', 'process_time': 0.0031606350021320395}
+2024-02-09 18:49:23,924 - INFO - HTTP Request: GET http://testserver/ "HTTP/1.1 200 OK"
+2024-02-09 18:49:23,932 - INFO - {'url': '/todo/1', 'method': 'GET', 'process_time': 0.002511386999685783}
+2024-02-09 18:49:23,933 - INFO - HTTP Request: GET http://testserver/todo/1 "HTTP/1.1 200 OK"
+2024-02-09 18:49:23,941 - INFO - {'url': '/todo/999', 'method': 'GET', 'process_time': 0.001875216003099922}
+2024-02-09 18:49:23,942 - INFO - HTTP Request: GET http://testserver/todo/999 "HTTP/1.1 404 Not Found"
+2024-02-09 18:49:23,947 - INFO - {'url': '/todo/', 'method': 'POST', 'process_time': 0.00024785099958535284}
+2024-02-09 18:49:23,948 - INFO - HTTP Request: POST http://testserver/todo/ "HTTP/1.1 307 Temporary Redirect"
+2024-02-09 18:49:23,953 - INFO - {'url': '/todo', 'method': 'POST', 'process_time': 0.0039047079990268685}
+2024-02-09 18:49:23,954 - INFO - HTTP Request: POST http://testserver/todo "HTTP/1.1 201 Created"
+2024-02-09 18:49:23,965 - INFO - {'url': '/todo/1', 'method': 'DELETE', 'process_time': 0.004514784006460104}
+2024-02-09 18:49:23,966 - INFO - HTTP Request: DELETE http://testserver/todo/1 "HTTP/1.1 204 No Content"
+2024-02-09 18:49:24,048 - INFO - {'url': '/todo/99', 'method': 'PUT', 'process_time': 0.002427608000289183}
+2024-02-09 18:49:24,049 - INFO - HTTP Request: PUT http://testserver/todo/99 "HTTP/1.1 404 Not Found"
+2024-02-09 18:49:39,610 - INFO - {'url': '/healthy', 'method': 'GET', 'process_time': 0.000868445000378415}
+2024-02-09 18:49:39,611 - INFO - HTTP Request: GET http://testserver/healthy "HTTP/1.1 200 OK"
+2024-02-09 18:49:39,623 - INFO - {'url': '/', 'method': 'GET', 'process_time': 0.003291323999292217}
+2024-02-09 18:49:39,624 - INFO - HTTP Request: GET http://testserver/ "HTTP/1.1 200 OK"
+2024-02-09 18:49:39,632 - INFO - {'url': '/todo/1', 'method': 'GET', 'process_time': 0.002594860998215154}
+2024-02-09 18:49:39,633 - INFO - HTTP Request: GET http://testserver/todo/1 "HTTP/1.1 200 OK"
+2024-02-09 18:49:39,640 - INFO - {'url': '/todo/999', 'method': 'GET', 'process_time': 0.0018628629986778833}
+2024-02-09 18:49:39,641 - INFO - HTTP Request: GET http://testserver/todo/999 "HTTP/1.1 404 Not Found"
+2024-02-09 18:49:39,647 - INFO - {'url': '/todo/', 'method': 'POST', 'process_time': 0.000254868995398283}
+2024-02-09 18:49:39,647 - INFO - HTTP Request: POST http://testserver/todo/ "HTTP/1.1 307 Temporary Redirect"
+2024-02-09 18:49:39,652 - INFO - {'url': '/todo', 'method': 'POST', 'process_time': 0.0038561910041607916}
+2024-02-09 18:49:39,653 - INFO - HTTP Request: POST http://testserver/todo "HTTP/1.1 201 Created"
+2024-02-09 18:49:39,664 - INFO - {'url': '/todo/1', 'method': 'DELETE', 'process_time': 0.004174654997768812}
+2024-02-09 18:49:39,665 - INFO - HTTP Request: DELETE http://testserver/todo/1 "HTTP/1.1 204 No Content"
+2024-02-09 18:49:39,673 - INFO - {'url': '/todo/99', 'method': 'PUT', 'process_time': 0.0019592050011851825}
+2024-02-09 18:49:39,674 - INFO - HTTP Request: PUT http://testserver/todo/99 "HTTP/1.1 404 Not Found"
+2024-02-09 18:51:11,960 - INFO - {'url': '/healthy', 'method': 'GET', 'process_time': 0.0007794890043442138}
+2024-02-09 18:51:11,962 - INFO - HTTP Request: GET http://testserver/healthy "HTTP/1.1 200 OK"
+2024-02-09 18:51:11,973 - INFO - {'url': '/', 'method': 'GET', 'process_time': 0.0031837880014791153}
+2024-02-09 18:51:11,974 - INFO - HTTP Request: GET http://testserver/ "HTTP/1.1 200 OK"
+2024-02-09 18:51:11,982 - INFO - {'url': '/todo/1', 'method': 'GET', 'process_time': 0.002439281000988558}
+2024-02-09 18:51:11,983 - INFO - HTTP Request: GET http://testserver/todo/1 "HTTP/1.1 200 OK"
+2024-02-09 18:51:11,990 - INFO - {'url': '/todo/999', 'method': 'GET', 'process_time': 0.0018996199942193925}
+2024-02-09 18:51:11,991 - INFO - HTTP Request: GET http://testserver/todo/999 "HTTP/1.1 404 Not Found"
+2024-02-09 18:51:11,997 - INFO - {'url': '/todo/', 'method': 'POST', 'process_time': 0.000270527001703158}
+2024-02-09 18:51:11,998 - INFO - HTTP Request: POST http://testserver/todo/ "HTTP/1.1 307 Temporary Redirect"
+2024-02-09 18:51:12,002 - INFO - {'url': '/todo', 'method': 'POST', 'process_time': 0.0034341629943810403}
+2024-02-09 18:51:12,003 - INFO - HTTP Request: POST http://testserver/todo "HTTP/1.1 201 Created"
+2024-02-09 18:51:12,015 - INFO - {'url': '/todo/1', 'method': 'PUT', 'process_time': 0.005417612002929673}
+2024-02-09 18:51:12,016 - INFO - HTTP Request: PUT http://testserver/todo/1 "HTTP/1.1 204 No Content"
+2024-02-09 18:51:12,022 - INFO - {'url': '/todo/99', 'method': 'PUT', 'process_time': 0.001804917999834288}
+2024-02-09 18:51:12,023 - INFO - HTTP Request: PUT http://testserver/todo/99 "HTTP/1.1 404 Not Found"
+2024-02-09 18:51:12,031 - INFO - {'url': '/todo/1', 'method': 'DELETE', 'process_time': 0.0043436170017230324}
+2024-02-09 18:51:12,032 - INFO - HTTP Request: DELETE http://testserver/todo/1 "HTTP/1.1 204 No Content"
+2024-02-09 18:51:12,037 - INFO - {'url': '/todo/999', 'method': 'DELETE', 'process_time': 0.0015193299987004139}
+2024-02-09 18:51:12,038 - INFO - HTTP Request: DELETE http://testserver/todo/999 "HTTP/1.1 404 Not Found"
+2024-02-09 18:52:30,735 - INFO - {'url': '/healthy', 'method': 'GET', 'process_time': 0.000811412995972205}
+2024-02-09 18:52:30,736 - INFO - HTTP Request: GET http://testserver/healthy "HTTP/1.1 200 OK"
+2024-02-09 18:52:30,750 - INFO - {'url': '/', 'method': 'GET', 'process_time': 0.0033555410045664757}
+2024-02-09 18:52:30,751 - INFO - HTTP Request: GET http://testserver/ "HTTP/1.1 200 OK"
+2024-02-09 18:52:30,760 - INFO - {'url': '/todo/1', 'method': 'GET', 'process_time': 0.0023910769959911704}
+2024-02-09 18:52:30,761 - INFO - HTTP Request: GET http://testserver/todo/1 "HTTP/1.1 200 OK"
+2024-02-09 18:52:30,769 - INFO - {'url': '/todo/999', 'method': 'GET', 'process_time': 0.002032390002568718}
+2024-02-09 18:52:30,770 - INFO - HTTP Request: GET http://testserver/todo/999 "HTTP/1.1 404 Not Found"
+2024-02-09 18:52:30,776 - INFO - {'url': '/todo/', 'method': 'POST', 'process_time': 0.0002397900025243871}
+2024-02-09 18:52:30,777 - INFO - HTTP Request: POST http://testserver/todo/ "HTTP/1.1 307 Temporary Redirect"
+2024-02-09 18:52:30,782 - INFO - {'url': '/todo', 'method': 'POST', 'process_time': 0.003915392997441813}
+2024-02-09 18:52:30,783 - INFO - HTTP Request: POST http://testserver/todo "HTTP/1.1 201 Created"
+2024-02-09 18:52:30,795 - INFO - {'url': '/todo/1', 'method': 'PUT', 'process_time': 0.0052194620002410375}
+2024-02-09 18:52:30,796 - INFO - HTTP Request: PUT http://testserver/todo/1 "HTTP/1.1 204 No Content"
+2024-02-09 18:52:30,803 - INFO - {'url': '/todo/99', 'method': 'PUT', 'process_time': 0.0022524550004163757}
+2024-02-09 18:52:30,804 - INFO - HTTP Request: PUT http://testserver/todo/99 "HTTP/1.1 404 Not Found"
+2024-02-09 18:52:30,812 - INFO - {'url': '/todo/1', 'method': 'DELETE', 'process_time': 0.004473273998883087}
+2024-02-09 18:52:30,813 - INFO - HTTP Request: DELETE http://testserver/todo/1 "HTTP/1.1 204 No Content"
+2024-02-09 18:52:30,819 - INFO - {'url': '/todo/999', 'method': 'DELETE', 'process_time': 0.0018045499964500777}
+2024-02-09 18:52:30,820 - INFO - HTTP Request: DELETE http://testserver/todo/999 "HTTP/1.1 404 Not Found"
+2024-02-12 09:18:55,376 - INFO - {'url': '/healthy', 'method': 'GET', 'process_time': 0.001011891999951331}
+2024-02-12 09:18:55,378 - INFO - HTTP Request: GET http://testserver/healthy "HTTP/1.1 200 OK"
+2024-02-12 09:18:55,389 - INFO - {'url': '/', 'method': 'GET', 'process_time': 0.0031622440001228824}
+2024-02-12 09:18:55,390 - INFO - HTTP Request: GET http://testserver/ "HTTP/1.1 200 OK"
+2024-02-12 09:18:55,399 - INFO - {'url': '/todo/1', 'method': 'GET', 'process_time': 0.0024481489999743644}
+2024-02-12 09:18:55,400 - INFO - HTTP Request: GET http://testserver/todo/1 "HTTP/1.1 200 OK"
+2024-02-12 09:18:55,408 - INFO - {'url': '/todo/999', 'method': 'GET', 'process_time': 0.00323052599969742}
+2024-02-12 09:18:55,409 - INFO - HTTP Request: GET http://testserver/todo/999 "HTTP/1.1 404 Not Found"
+2024-02-12 09:18:55,415 - INFO - {'url': '/todo/', 'method': 'POST', 'process_time': 0.0002489679995960614}
+2024-02-12 09:18:55,416 - INFO - HTTP Request: POST http://testserver/todo/ "HTTP/1.1 307 Temporary Redirect"
+2024-02-12 09:18:55,420 - INFO - {'url': '/todo', 'method': 'POST', 'process_time': 0.0033624719999352237}
+2024-02-12 09:18:55,421 - INFO - HTTP Request: POST http://testserver/todo "HTTP/1.1 201 Created"
+2024-02-12 09:18:55,433 - INFO - {'url': '/todo/1', 'method': 'PUT', 'process_time': 0.005330492000211962}
+2024-02-12 09:18:55,434 - INFO - HTTP Request: PUT http://testserver/todo/1 "HTTP/1.1 204 No Content"
+2024-02-12 09:18:55,440 - INFO - {'url': '/todo/99', 'method': 'PUT', 'process_time': 0.002287437000177306}
+2024-02-12 09:18:55,441 - INFO - HTTP Request: PUT http://testserver/todo/99 "HTTP/1.1 404 Not Found"
+2024-02-12 09:18:55,449 - INFO - {'url': '/todo/1', 'method': 'DELETE', 'process_time': 0.004108490999897185}
+2024-02-12 09:18:55,451 - INFO - HTTP Request: DELETE http://testserver/todo/1 "HTTP/1.1 204 No Content"
+2024-02-12 09:18:55,456 - INFO - {'url': '/todo/999', 'method': 'DELETE', 'process_time': 0.0019394780001675826}
+2024-02-12 09:18:55,457 - INFO - HTTP Request: DELETE http://testserver/todo/999 "HTTP/1.1 404 Not Found"
+2024-02-12 09:24:15,600 - INFO - {'url': '/admin/todo', 'method': 'GET', 'process_time': 0.0014091610000832588}
+2024-02-12 09:24:15,601 - INFO - HTTP Request: GET http://testserver/admin/todo "HTTP/1.1 401 Unauthorized"
+2024-02-12 09:24:15,642 - INFO - {'url': '/healthy', 'method': 'GET', 'process_time': 0.0006943440002942225}
+2024-02-12 09:24:15,643 - INFO - HTTP Request: GET http://testserver/healthy "HTTP/1.1 200 OK"
+2024-02-12 09:24:15,652 - INFO - {'url': '/', 'method': 'GET', 'process_time': 0.003732943000159139}
+2024-02-12 09:24:15,653 - INFO - HTTP Request: GET http://testserver/ "HTTP/1.1 200 OK"
+2024-02-12 09:24:15,663 - INFO - {'url': '/todo/1', 'method': 'GET', 'process_time': 0.002942480000001524}
+2024-02-12 09:24:15,664 - INFO - HTTP Request: GET http://testserver/todo/1 "HTTP/1.1 200 OK"
+2024-02-12 09:24:15,670 - INFO - {'url': '/todo/999', 'method': 'GET', 'process_time': 0.00148481999985961}
+2024-02-12 09:24:15,671 - INFO - HTTP Request: GET http://testserver/todo/999 "HTTP/1.1 404 Not Found"
+2024-02-12 09:24:15,678 - INFO - {'url': '/todo/', 'method': 'POST', 'process_time': 0.0002583559999038698}
+2024-02-12 09:24:15,680 - INFO - HTTP Request: POST http://testserver/todo/ "HTTP/1.1 307 Temporary Redirect"
+2024-02-12 09:24:15,684 - INFO - {'url': '/todo', 'method': 'POST', 'process_time': 0.003224637999664992}
+2024-02-12 09:24:15,685 - INFO - HTTP Request: POST http://testserver/todo "HTTP/1.1 201 Created"
+2024-02-12 09:24:15,698 - INFO - {'url': '/todo/1', 'method': 'PUT', 'process_time': 0.006062114000087604}
+2024-02-12 09:24:15,699 - INFO - HTTP Request: PUT http://testserver/todo/1 "HTTP/1.1 204 No Content"
+2024-02-12 09:24:15,705 - INFO - {'url': '/todo/99', 'method': 'PUT', 'process_time': 0.002091709000069386}
+2024-02-12 09:24:15,706 - INFO - HTTP Request: PUT http://testserver/todo/99 "HTTP/1.1 404 Not Found"
+2024-02-12 09:24:15,715 - INFO - {'url': '/todo/1', 'method': 'DELETE', 'process_time': 0.004652493000321556}
+2024-02-12 09:24:15,716 - INFO - HTTP Request: DELETE http://testserver/todo/1 "HTTP/1.1 204 No Content"
+2024-02-12 09:24:15,722 - INFO - {'url': '/todo/999', 'method': 'DELETE', 'process_time': 0.0017451550002078875}
+2024-02-12 09:24:15,723 - INFO - HTTP Request: DELETE http://testserver/todo/999 "HTTP/1.1 404 Not Found"
+2024-02-12 09:25:23,089 - INFO - {'url': '/admin/todo', 'method': 'GET', 'process_time': 0.0019687980002345284}
+2024-02-12 09:25:23,091 - INFO - HTTP Request: GET http://testserver/admin/todo "HTTP/1.1 401 Unauthorized"
+2024-02-12 09:25:23,140 - INFO - {'url': '/healthy', 'method': 'GET', 'process_time': 0.0008347419998244732}
+2024-02-12 09:25:23,141 - INFO - HTTP Request: GET http://testserver/healthy "HTTP/1.1 200 OK"
+2024-02-12 09:25:23,150 - INFO - {'url': '/', 'method': 'GET', 'process_time': 0.0041233209999518294}
+2024-02-12 09:25:23,152 - INFO - HTTP Request: GET http://testserver/ "HTTP/1.1 200 OK"
+2024-02-12 09:25:23,161 - INFO - {'url': '/todo/1', 'method': 'GET', 'process_time': 0.002963265999824216}
+2024-02-12 09:25:23,162 - INFO - HTTP Request: GET http://testserver/todo/1 "HTTP/1.1 200 OK"
+2024-02-12 09:25:23,171 - INFO - {'url': '/todo/999', 'method': 'GET', 'process_time': 0.0019704249998540035}
+2024-02-12 09:25:23,172 - INFO - HTTP Request: GET http://testserver/todo/999 "HTTP/1.1 404 Not Found"
+2024-02-12 09:25:23,180 - INFO - {'url': '/todo/', 'method': 'POST', 'process_time': 0.0003012940001099196}
+2024-02-12 09:25:23,183 - INFO - HTTP Request: POST http://testserver/todo/ "HTTP/1.1 307 Temporary Redirect"
+2024-02-12 09:25:23,187 - INFO - {'url': '/todo', 'method': 'POST', 'process_time': 0.0035297459999128478}
+2024-02-12 09:25:23,189 - INFO - HTTP Request: POST http://testserver/todo "HTTP/1.1 201 Created"
+2024-02-12 09:25:23,204 - INFO - {'url': '/todo/1', 'method': 'PUT', 'process_time': 0.006210152000221569}
+2024-02-12 09:25:23,205 - INFO - HTTP Request: PUT http://testserver/todo/1 "HTTP/1.1 204 No Content"
+2024-02-12 09:25:23,213 - INFO - {'url': '/todo/99', 'method': 'PUT', 'process_time': 0.0020171190003566153}
+2024-02-12 09:25:23,214 - INFO - HTTP Request: PUT http://testserver/todo/99 "HTTP/1.1 404 Not Found"
+2024-02-12 09:25:23,225 - INFO - {'url': '/todo/1', 'method': 'DELETE', 'process_time': 0.0048528819997955}
+2024-02-12 09:25:23,226 - INFO - HTTP Request: DELETE http://testserver/todo/1 "HTTP/1.1 204 No Content"
+2024-02-12 09:25:23,232 - INFO - {'url': '/todo/999', 'method': 'DELETE', 'process_time': 0.0018200289996457286}
+2024-02-12 09:25:23,233 - INFO - HTTP Request: DELETE http://testserver/todo/999 "HTTP/1.1 404 Not Found"
+2024-02-12 09:25:59,119 - INFO - {'url': '/admin/todo', 'method': 'GET', 'process_time': 0.0034360390000074403}
+2024-02-12 09:25:59,121 - INFO - HTTP Request: GET http://testserver/admin/todo "HTTP/1.1 200 OK"
+2024-02-12 09:25:59,127 - INFO - {'url': '/healthy', 'method': 'GET', 'process_time': 0.0006936310001037782}
+2024-02-12 09:25:59,128 - INFO - HTTP Request: GET http://testserver/healthy "HTTP/1.1 200 OK"
+2024-02-12 09:25:59,137 - INFO - {'url': '/', 'method': 'GET', 'process_time': 0.0031171329997050634}
+2024-02-12 09:25:59,138 - INFO - HTTP Request: GET http://testserver/ "HTTP/1.1 200 OK"
+2024-02-12 09:25:59,146 - INFO - {'url': '/todo/1', 'method': 'GET', 'process_time': 0.002783002000342094}
+2024-02-12 09:25:59,148 - INFO - HTTP Request: GET http://testserver/todo/1 "HTTP/1.1 200 OK"
+2024-02-12 09:25:59,156 - INFO - {'url': '/todo/999', 'method': 'GET', 'process_time': 0.002041226000073948}
+2024-02-12 09:25:59,158 - INFO - HTTP Request: GET http://testserver/todo/999 "HTTP/1.1 404 Not Found"
+2024-02-12 09:25:59,164 - INFO - {'url': '/todo/', 'method': 'POST', 'process_time': 0.00029032099973846925}
+2024-02-12 09:25:59,165 - INFO - HTTP Request: POST http://testserver/todo/ "HTTP/1.1 307 Temporary Redirect"
+2024-02-12 09:25:59,171 - INFO - {'url': '/todo', 'method': 'POST', 'process_time': 0.004742675000215968}
+2024-02-12 09:25:59,172 - INFO - HTTP Request: POST http://testserver/todo "HTTP/1.1 201 Created"
+2024-02-12 09:25:59,187 - INFO - {'url': '/todo/1', 'method': 'PUT', 'process_time': 0.00679072000002634}
+2024-02-12 09:25:59,188 - INFO - HTTP Request: PUT http://testserver/todo/1 "HTTP/1.1 204 No Content"
+2024-02-12 09:25:59,195 - INFO - {'url': '/todo/99', 'method': 'PUT', 'process_time': 0.002557356000124855}
+2024-02-12 09:25:59,196 - INFO - HTTP Request: PUT http://testserver/todo/99 "HTTP/1.1 404 Not Found"
+2024-02-12 09:25:59,206 - INFO - {'url': '/todo/1', 'method': 'DELETE', 'process_time': 0.004902200999822526}
+2024-02-12 09:25:59,207 - INFO - HTTP Request: DELETE http://testserver/todo/1 "HTTP/1.1 204 No Content"
+2024-02-12 09:25:59,213 - INFO - {'url': '/todo/999', 'method': 'DELETE', 'process_time': 0.001789935000033438}
+2024-02-12 09:25:59,214 - INFO - HTTP Request: DELETE http://testserver/todo/999 "HTTP/1.1 404 Not Found"
+2024-02-12 09:28:39,141 - INFO - {'url': '/admin/todo', 'method': 'GET', 'process_time': 0.0032638389998282946}
+2024-02-12 09:28:39,143 - INFO - HTTP Request: GET http://testserver/admin/todo "HTTP/1.1 200 OK"
+2024-02-12 09:28:39,156 - INFO - {'url': '/admin/todo/1', 'method': 'DELETE', 'process_time': 0.007089554000231146}
+2024-02-12 09:28:39,157 - INFO - HTTP Request: DELETE http://testserver/admin/todo/1 "HTTP/1.1 204 No Content"
+2024-02-12 09:28:39,165 - INFO - {'url': '/healthy', 'method': 'GET', 'process_time': 0.0006818839997322357}
+2024-02-12 09:28:39,166 - INFO - HTTP Request: GET http://testserver/healthy "HTTP/1.1 200 OK"
+2024-02-12 09:28:39,175 - INFO - {'url': '/', 'method': 'GET', 'process_time': 0.004165327000009711}
+2024-02-12 09:28:39,176 - INFO - HTTP Request: GET http://testserver/ "HTTP/1.1 200 OK"
+2024-02-12 09:28:39,185 - INFO - {'url': '/todo/1', 'method': 'GET', 'process_time': 0.0029649289999724715}
+2024-02-12 09:28:39,186 - INFO - HTTP Request: GET http://testserver/todo/1 "HTTP/1.1 200 OK"
+2024-02-12 09:28:39,194 - INFO - {'url': '/todo/999', 'method': 'GET', 'process_time': 0.002293128000019351}
+2024-02-12 09:28:39,195 - INFO - HTTP Request: GET http://testserver/todo/999 "HTTP/1.1 404 Not Found"
+2024-02-12 09:28:39,202 - INFO - {'url': '/todo/', 'method': 'POST', 'process_time': 0.0002909270001509867}
+2024-02-12 09:28:39,203 - INFO - HTTP Request: POST http://testserver/todo/ "HTTP/1.1 307 Temporary Redirect"
+2024-02-12 09:28:39,208 - INFO - {'url': '/todo', 'method': 'POST', 'process_time': 0.0037675829998988775}
+2024-02-12 09:28:39,209 - INFO - HTTP Request: POST http://testserver/todo "HTTP/1.1 201 Created"
+2024-02-12 09:28:39,222 - INFO - {'url': '/todo/1', 'method': 'PUT', 'process_time': 0.006476915999883204}
+2024-02-12 09:28:39,223 - INFO - HTTP Request: PUT http://testserver/todo/1 "HTTP/1.1 204 No Content"
+2024-02-12 09:28:39,230 - INFO - {'url': '/todo/99', 'method': 'PUT', 'process_time': 0.0020763200000146753}
+2024-02-12 09:28:39,231 - INFO - HTTP Request: PUT http://testserver/todo/99 "HTTP/1.1 404 Not Found"
+2024-02-12 09:28:39,240 - INFO - {'url': '/todo/1', 'method': 'DELETE', 'process_time': 0.004654783999740175}
+2024-02-12 09:28:39,241 - INFO - HTTP Request: DELETE http://testserver/todo/1 "HTTP/1.1 204 No Content"
+2024-02-12 09:28:39,247 - INFO - {'url': '/todo/999', 'method': 'DELETE', 'process_time': 0.00179885000034119}
+2024-02-12 09:28:39,248 - INFO - HTTP Request: DELETE http://testserver/todo/999 "HTTP/1.1 404 Not Found"
+2024-02-12 09:30:18,344 - INFO - {'url': '/admin/todo', 'method': 'GET', 'process_time': 0.002814295000007405}
+2024-02-12 09:30:18,346 - INFO - HTTP Request: GET http://testserver/admin/todo "HTTP/1.1 200 OK"
+2024-02-12 09:30:18,357 - INFO - {'url': '/admin/todo/1', 'method': 'DELETE', 'process_time': 0.0052189980001458025}
+2024-02-12 09:30:18,358 - INFO - HTTP Request: DELETE http://testserver/admin/todo/1 "HTTP/1.1 204 No Content"
+2024-02-12 09:30:18,366 - INFO - {'url': '/admin/todo/999', 'method': 'DELETE', 'process_time': 0.0017171480003526085}
+2024-02-12 09:30:18,367 - INFO - HTTP Request: DELETE http://testserver/admin/todo/999 "HTTP/1.1 404 Not Found"
+2024-02-12 09:30:18,410 - INFO - {'url': '/healthy', 'method': 'GET', 'process_time': 0.0007582150001326227}
+2024-02-12 09:30:18,411 - INFO - HTTP Request: GET http://testserver/healthy "HTTP/1.1 200 OK"
+2024-02-12 09:30:18,418 - INFO - {'url': '/', 'method': 'GET', 'process_time': 0.00264856499961752}
+2024-02-12 09:30:18,419 - INFO - HTTP Request: GET http://testserver/ "HTTP/1.1 200 OK"
+2024-02-12 09:30:18,428 - INFO - {'url': '/todo/1', 'method': 'GET', 'process_time': 0.0026980769998772303}
+2024-02-12 09:30:18,429 - INFO - HTTP Request: GET http://testserver/todo/1 "HTTP/1.1 200 OK"
+2024-02-12 09:30:18,436 - INFO - {'url': '/todo/999', 'method': 'GET', 'process_time': 0.0019712409998646763}
+2024-02-12 09:30:18,437 - INFO - HTTP Request: GET http://testserver/todo/999 "HTTP/1.1 404 Not Found"
+2024-02-12 09:30:18,443 - INFO - {'url': '/todo/', 'method': 'POST', 'process_time': 0.0002478360001987312}
+2024-02-12 09:30:18,444 - INFO - HTTP Request: POST http://testserver/todo/ "HTTP/1.1 307 Temporary Redirect"
+2024-02-12 09:30:18,449 - INFO - {'url': '/todo', 'method': 'POST', 'process_time': 0.0034900770001513592}
+2024-02-12 09:30:18,450 - INFO - HTTP Request: POST http://testserver/todo "HTTP/1.1 201 Created"
+2024-02-12 09:30:18,462 - INFO - {'url': '/todo/1', 'method': 'PUT', 'process_time': 0.005438757999854715}
+2024-02-12 09:30:18,463 - INFO - HTTP Request: PUT http://testserver/todo/1 "HTTP/1.1 204 No Content"
+2024-02-12 09:30:18,469 - INFO - {'url': '/todo/99', 'method': 'PUT', 'process_time': 0.0024640439996801433}
+2024-02-12 09:30:18,471 - INFO - HTTP Request: PUT http://testserver/todo/99 "HTTP/1.1 404 Not Found"
+2024-02-12 09:30:18,479 - INFO - {'url': '/todo/1', 'method': 'DELETE', 'process_time': 0.003954374999921129}
+2024-02-12 09:30:18,481 - INFO - HTTP Request: DELETE http://testserver/todo/1 "HTTP/1.1 204 No Content"
+2024-02-12 09:30:18,487 - INFO - {'url': '/todo/999', 'method': 'DELETE', 'process_time': 0.0017661699998825497}
+2024-02-12 09:30:18,488 - INFO - HTTP Request: DELETE http://testserver/todo/999 "HTTP/1.1 404 Not Found"
+2024-02-12 09:30:29,785 - INFO - {'url': '/admin/todo', 'method': 'GET', 'process_time': 0.00366136800039385}
+2024-02-12 09:30:29,787 - INFO - HTTP Request: GET http://testserver/admin/todo "HTTP/1.1 200 OK"
+2024-02-12 09:30:29,800 - INFO - {'url': '/admin/todo/1', 'method': 'DELETE', 'process_time': 0.0054590959998677135}
+2024-02-12 09:30:29,801 - INFO - HTTP Request: DELETE http://testserver/admin/todo/1 "HTTP/1.1 204 No Content"
+2024-02-12 09:30:29,809 - INFO - {'url': '/admin/todo/999', 'method': 'DELETE', 'process_time': 0.0018036789997495362}
+2024-02-12 09:30:29,811 - INFO - HTTP Request: DELETE http://testserver/admin/todo/999 "HTTP/1.1 404 Not Found"
+2024-02-12 09:30:29,817 - INFO - {'url': '/healthy', 'method': 'GET', 'process_time': 0.000976224000169168}
+2024-02-12 09:30:29,818 - INFO - HTTP Request: GET http://testserver/healthy "HTTP/1.1 200 OK"
+2024-02-12 09:30:29,825 - INFO - {'url': '/', 'method': 'GET', 'process_time': 0.0026993350002157968}
+2024-02-12 09:30:29,826 - INFO - HTTP Request: GET http://testserver/ "HTTP/1.1 200 OK"
+2024-02-12 09:30:29,835 - INFO - {'url': '/todo/1', 'method': 'GET', 'process_time': 0.0028590910001184966}
+2024-02-12 09:30:29,836 - INFO - HTTP Request: GET http://testserver/todo/1 "HTTP/1.1 200 OK"
+2024-02-12 09:30:29,844 - INFO - {'url': '/todo/999', 'method': 'GET', 'process_time': 0.0019538629999260593}
+2024-02-12 09:30:29,845 - INFO - HTTP Request: GET http://testserver/todo/999 "HTTP/1.1 404 Not Found"
+2024-02-12 09:30:29,852 - INFO - {'url': '/todo/', 'method': 'POST', 'process_time': 0.00030380699990928406}
+2024-02-12 09:30:29,853 - INFO - HTTP Request: POST http://testserver/todo/ "HTTP/1.1 307 Temporary Redirect"
+2024-02-12 09:30:29,858 - INFO - {'url': '/todo', 'method': 'POST', 'process_time': 0.003708210000240797}
+2024-02-12 09:30:29,859 - INFO - HTTP Request: POST http://testserver/todo "HTTP/1.1 201 Created"
+2024-02-12 09:30:29,871 - INFO - {'url': '/todo/1', 'method': 'PUT', 'process_time': 0.006025297000178398}
+2024-02-12 09:30:29,872 - INFO - HTTP Request: PUT http://testserver/todo/1 "HTTP/1.1 204 No Content"
+2024-02-12 09:30:29,879 - INFO - {'url': '/todo/99', 'method': 'PUT', 'process_time': 0.0020472880000852456}
+2024-02-12 09:30:29,880 - INFO - HTTP Request: PUT http://testserver/todo/99 "HTTP/1.1 404 Not Found"
+2024-02-12 09:30:29,889 - INFO - {'url': '/todo/1', 'method': 'DELETE', 'process_time': 0.004648870999972132}
+2024-02-12 09:30:29,890 - INFO - HTTP Request: DELETE http://testserver/todo/1 "HTTP/1.1 204 No Content"
+2024-02-12 09:30:29,896 - INFO - {'url': '/todo/999', 'method': 'DELETE', 'process_time': 0.0017666069998085732}
+2024-02-12 09:30:29,897 - INFO - HTTP Request: DELETE http://testserver/todo/999 "HTTP/1.1 404 Not Found"
+2024-02-12 09:33:56,829 - INFO - {'url': '/admin/todo', 'method': 'GET', 'process_time': 0.0028427519996512274}
+2024-02-12 09:33:56,831 - INFO - HTTP Request: GET http://testserver/admin/todo "HTTP/1.1 200 OK"
+2024-02-12 09:33:56,844 - INFO - {'url': '/admin/todo/1', 'method': 'DELETE', 'process_time': 0.0061698939998677815}
+2024-02-12 09:33:56,845 - INFO - HTTP Request: DELETE http://testserver/admin/todo/1 "HTTP/1.1 204 No Content"
+2024-02-12 09:33:56,854 - INFO - {'url': '/admin/todo/999', 'method': 'DELETE', 'process_time': 0.0019429620001574222}
+2024-02-12 09:33:56,855 - INFO - HTTP Request: DELETE http://testserver/admin/todo/999 "HTTP/1.1 404 Not Found"
+2024-02-12 09:33:56,861 - INFO - {'url': '/healthy', 'method': 'GET', 'process_time': 0.0016142489998856036}
+2024-02-12 09:33:56,862 - INFO - HTTP Request: GET http://testserver/healthy "HTTP/1.1 200 OK"
+2024-02-12 09:33:56,870 - INFO - {'url': '/', 'method': 'GET', 'process_time': 0.0033018310000443307}
+2024-02-12 09:33:56,872 - INFO - HTTP Request: GET http://testserver/ "HTTP/1.1 200 OK"
+2024-02-12 09:33:56,880 - INFO - {'url': '/todo/1', 'method': 'GET', 'process_time': 0.0026233479998154507}
+2024-02-12 09:33:56,881 - INFO - HTTP Request: GET http://testserver/todo/1 "HTTP/1.1 200 OK"
+2024-02-12 09:33:56,889 - INFO - {'url': '/todo/999', 'method': 'GET', 'process_time': 0.0015914539999357658}
+2024-02-12 09:33:56,890 - INFO - HTTP Request: GET http://testserver/todo/999 "HTTP/1.1 404 Not Found"
+2024-02-12 09:33:56,895 - INFO - {'url': '/todo/', 'method': 'POST', 'process_time': 0.00026264500002071145}
+2024-02-12 09:33:56,896 - INFO - HTTP Request: POST http://testserver/todo/ "HTTP/1.1 307 Temporary Redirect"
+2024-02-12 09:33:56,901 - INFO - {'url': '/todo', 'method': 'POST', 'process_time': 0.0039468650002163486}
+2024-02-12 09:33:56,903 - INFO - HTTP Request: POST http://testserver/todo "HTTP/1.1 201 Created"
+2024-02-12 09:33:56,915 - INFO - {'url': '/todo/1', 'method': 'PUT', 'process_time': 0.005626328000289504}
+2024-02-12 09:33:56,916 - INFO - HTTP Request: PUT http://testserver/todo/1 "HTTP/1.1 204 No Content"
+2024-02-12 09:33:56,923 - INFO - {'url': '/todo/99', 'method': 'PUT', 'process_time': 0.0017977759998757392}
+2024-02-12 09:33:56,924 - INFO - HTTP Request: PUT http://testserver/todo/99 "HTTP/1.1 404 Not Found"
+2024-02-12 09:33:56,933 - INFO - {'url': '/todo/1', 'method': 'DELETE', 'process_time': 0.005173530999854847}
+2024-02-12 09:33:56,935 - INFO - HTTP Request: DELETE http://testserver/todo/1 "HTTP/1.1 204 No Content"
+2024-02-12 09:33:56,941 - INFO - {'url': '/todo/999', 'method': 'DELETE', 'process_time': 0.0016165679999176064}
+2024-02-12 09:33:56,942 - INFO - HTTP Request: DELETE http://testserver/todo/999 "HTTP/1.1 404 Not Found"
+2024-02-12 09:33:56,944 - INFO - {'url': '/user', 'method': 'GET', 'process_time': 0.00026022399970315746}
+2024-02-12 09:33:56,945 - INFO - HTTP Request: GET http://testserver/user "HTTP/1.1 307 Temporary Redirect"
+2024-02-12 09:35:33,085 - INFO - {'url': '/admin/todo', 'method': 'GET', 'process_time': 0.0028680140003416454}
+2024-02-12 09:35:33,087 - INFO - HTTP Request: GET http://testserver/admin/todo "HTTP/1.1 200 OK"
+2024-02-12 09:35:33,098 - INFO - {'url': '/admin/todo/1', 'method': 'DELETE', 'process_time': 0.00501754200013238}
+2024-02-12 09:35:33,099 - INFO - HTTP Request: DELETE http://testserver/admin/todo/1 "HTTP/1.1 204 No Content"
+2024-02-12 09:35:33,107 - INFO - {'url': '/admin/todo/999', 'method': 'DELETE', 'process_time': 0.00172350999991977}
+2024-02-12 09:35:33,108 - INFO - HTTP Request: DELETE http://testserver/admin/todo/999 "HTTP/1.1 404 Not Found"
+2024-02-12 09:35:33,115 - INFO - {'url': '/healthy', 'method': 'GET', 'process_time': 0.0018516390000513638}
+2024-02-12 09:35:33,116 - INFO - HTTP Request: GET http://testserver/healthy "HTTP/1.1 200 OK"
+2024-02-12 09:35:33,122 - INFO - {'url': '/', 'method': 'GET', 'process_time': 0.0023923549997562077}
+2024-02-12 09:35:33,123 - INFO - HTTP Request: GET http://testserver/ "HTTP/1.1 200 OK"
+2024-02-12 09:35:33,131 - INFO - {'url': '/todo/1', 'method': 'GET', 'process_time': 0.0023320240002249193}
+2024-02-12 09:35:33,132 - INFO - HTTP Request: GET http://testserver/todo/1 "HTTP/1.1 200 OK"
+2024-02-12 09:35:33,139 - INFO - {'url': '/todo/999', 'method': 'GET', 'process_time': 0.0019864460000462714}
+2024-02-12 09:35:33,140 - INFO - HTTP Request: GET http://testserver/todo/999 "HTTP/1.1 404 Not Found"
+2024-02-12 09:35:33,146 - INFO - {'url': '/todo/', 'method': 'POST', 'process_time': 0.0002452619996802241}
+2024-02-12 09:35:33,147 - INFO - HTTP Request: POST http://testserver/todo/ "HTTP/1.1 307 Temporary Redirect"
+2024-02-12 09:35:33,150 - INFO - {'url': '/todo', 'method': 'POST', 'process_time': 0.00294260700002269}
+2024-02-12 09:35:33,151 - INFO - HTTP Request: POST http://testserver/todo "HTTP/1.1 201 Created"
+2024-02-12 09:35:33,162 - INFO - {'url': '/todo/1', 'method': 'PUT', 'process_time': 0.005376472000079957}
+2024-02-12 09:35:33,163 - INFO - HTTP Request: PUT http://testserver/todo/1 "HTTP/1.1 204 No Content"
+2024-02-12 09:35:33,169 - INFO - {'url': '/todo/99', 'method': 'PUT', 'process_time': 0.0018637230000422278}
+2024-02-12 09:35:33,170 - INFO - HTTP Request: PUT http://testserver/todo/99 "HTTP/1.1 404 Not Found"
+2024-02-12 09:35:33,179 - INFO - {'url': '/todo/1', 'method': 'DELETE', 'process_time': 0.004184341999916796}
+2024-02-12 09:35:33,180 - INFO - HTTP Request: DELETE http://testserver/todo/1 "HTTP/1.1 204 No Content"
+2024-02-12 09:35:33,185 - INFO - {'url': '/todo/999', 'method': 'DELETE', 'process_time': 0.001463779000005161}
+2024-02-12 09:35:33,186 - INFO - HTTP Request: DELETE http://testserver/todo/999 "HTTP/1.1 404 Not Found"
+2024-02-12 09:35:59,413 - INFO - {'url': '/admin/todo', 'method': 'GET', 'process_time': 0.0029680500001632026}
+2024-02-12 09:35:59,415 - INFO - HTTP Request: GET http://testserver/admin/todo "HTTP/1.1 200 OK"
+2024-02-12 09:35:59,426 - INFO - {'url': '/admin/todo/1', 'method': 'DELETE', 'process_time': 0.005496531000062532}
+2024-02-12 09:35:59,427 - INFO - HTTP Request: DELETE http://testserver/admin/todo/1 "HTTP/1.1 204 No Content"
+2024-02-12 09:35:59,435 - INFO - {'url': '/admin/todo/999', 'method': 'DELETE', 'process_time': 0.0017788459999792394}
+2024-02-12 09:35:59,436 - INFO - HTTP Request: DELETE http://testserver/admin/todo/999 "HTTP/1.1 404 Not Found"
+2024-02-12 09:35:59,443 - INFO - {'url': '/healthy', 'method': 'GET', 'process_time': 0.0020507350000116276}
+2024-02-12 09:35:59,444 - INFO - HTTP Request: GET http://testserver/healthy "HTTP/1.1 200 OK"
+2024-02-12 09:35:59,451 - INFO - {'url': '/', 'method': 'GET', 'process_time': 0.002046801999767922}
+2024-02-12 09:35:59,452 - INFO - HTTP Request: GET http://testserver/ "HTTP/1.1 200 OK"
+2024-02-12 09:35:59,460 - INFO - {'url': '/todo/1', 'method': 'GET', 'process_time': 0.0024843910000527103}
+2024-02-12 09:35:59,461 - INFO - HTTP Request: GET http://testserver/todo/1 "HTTP/1.1 200 OK"
+2024-02-12 09:35:59,468 - INFO - {'url': '/todo/999', 'method': 'GET', 'process_time': 0.0016229190000558447}
+2024-02-12 09:35:59,469 - INFO - HTTP Request: GET http://testserver/todo/999 "HTTP/1.1 404 Not Found"
+2024-02-12 09:35:59,475 - INFO - {'url': '/todo/', 'method': 'POST', 'process_time': 0.00025698000035845325}
+2024-02-12 09:35:59,476 - INFO - HTTP Request: POST http://testserver/todo/ "HTTP/1.1 307 Temporary Redirect"
+2024-02-12 09:35:59,480 - INFO - {'url': '/todo', 'method': 'POST', 'process_time': 0.0032438389998787898}
+2024-02-12 09:35:59,481 - INFO - HTTP Request: POST http://testserver/todo "HTTP/1.1 201 Created"
+2024-02-12 09:35:59,493 - INFO - {'url': '/todo/1', 'method': 'PUT', 'process_time': 0.005330593999588018}
+2024-02-12 09:35:59,493 - INFO - HTTP Request: PUT http://testserver/todo/1 "HTTP/1.1 204 No Content"
+2024-02-12 09:35:59,500 - INFO - {'url': '/todo/99', 'method': 'PUT', 'process_time': 0.0019418140000198036}
+2024-02-12 09:35:59,501 - INFO - HTTP Request: PUT http://testserver/todo/99 "HTTP/1.1 404 Not Found"
+2024-02-12 09:35:59,509 - INFO - {'url': '/todo/1', 'method': 'DELETE', 'process_time': 0.004712632000064332}
+2024-02-12 09:35:59,510 - INFO - HTTP Request: DELETE http://testserver/todo/1 "HTTP/1.1 204 No Content"
+2024-02-12 09:35:59,516 - INFO - {'url': '/todo/999', 'method': 'DELETE', 'process_time': 0.0016302140002153465}
+2024-02-12 09:35:59,517 - INFO - HTTP Request: DELETE http://testserver/todo/999 "HTTP/1.1 404 Not Found"
+2024-02-12 09:37:58,178 - INFO - {'url': '/admin/todo', 'method': 'GET', 'process_time': 0.002900382999996509}
+2024-02-12 09:37:58,179 - INFO - HTTP Request: GET http://testserver/admin/todo "HTTP/1.1 200 OK"
+2024-02-12 09:37:58,191 - INFO - {'url': '/admin/todo/1', 'method': 'DELETE', 'process_time': 0.005448157000046194}
+2024-02-12 09:37:58,192 - INFO - HTTP Request: DELETE http://testserver/admin/todo/1 "HTTP/1.1 204 No Content"
+2024-02-12 09:37:58,199 - INFO - {'url': '/admin/todo/999', 'method': 'DELETE', 'process_time': 0.001610603000244737}
+2024-02-12 09:37:58,200 - INFO - HTTP Request: DELETE http://testserver/admin/todo/999 "HTTP/1.1 404 Not Found"
+2024-02-12 09:37:58,206 - INFO - {'url': '/healthy', 'method': 'GET', 'process_time': 0.0017875910002658202}
+2024-02-12 09:37:58,207 - INFO - HTTP Request: GET http://testserver/healthy "HTTP/1.1 200 OK"
+2024-02-12 09:37:58,215 - INFO - {'url': '/', 'method': 'GET', 'process_time': 0.0022757130000172765}
+2024-02-12 09:37:58,216 - INFO - HTTP Request: GET http://testserver/ "HTTP/1.1 200 OK"
+2024-02-12 09:37:58,223 - INFO - {'url': '/todo/1', 'method': 'GET', 'process_time': 0.0023161300000538176}
+2024-02-12 09:37:58,224 - INFO - HTTP Request: GET http://testserver/todo/1 "HTTP/1.1 200 OK"
+2024-02-12 09:37:58,232 - INFO - {'url': '/todo/999', 'method': 'GET', 'process_time': 0.001635143000385142}
+2024-02-12 09:37:58,232 - INFO - HTTP Request: GET http://testserver/todo/999 "HTTP/1.1 404 Not Found"
+2024-02-12 09:37:58,238 - INFO - {'url': '/todo/', 'method': 'POST', 'process_time': 0.00024133400029313634}
+2024-02-12 09:37:58,239 - INFO - HTTP Request: POST http://testserver/todo/ "HTTP/1.1 307 Temporary Redirect"
+2024-02-12 09:37:58,243 - INFO - {'url': '/todo', 'method': 'POST', 'process_time': 0.0032710139998926024}
+2024-02-12 09:37:58,244 - INFO - HTTP Request: POST http://testserver/todo "HTTP/1.1 201 Created"
+2024-02-12 09:37:58,254 - INFO - {'url': '/todo/1', 'method': 'PUT', 'process_time': 0.005043013999966206}
+2024-02-12 09:37:58,255 - INFO - HTTP Request: PUT http://testserver/todo/1 "HTTP/1.1 204 No Content"
+2024-02-12 09:37:58,261 - INFO - {'url': '/todo/99', 'method': 'PUT', 'process_time': 0.001756998000018939}
+2024-02-12 09:37:58,262 - INFO - HTTP Request: PUT http://testserver/todo/99 "HTTP/1.1 404 Not Found"
+2024-02-12 09:37:58,270 - INFO - {'url': '/todo/1', 'method': 'DELETE', 'process_time': 0.004037984999740729}
+2024-02-12 09:37:58,271 - INFO - HTTP Request: DELETE http://testserver/todo/1 "HTTP/1.1 204 No Content"
+2024-02-12 09:37:58,277 - INFO - {'url': '/todo/999', 'method': 'DELETE', 'process_time': 0.0018416539996906067}
+2024-02-12 09:37:58,278 - INFO - HTTP Request: DELETE http://testserver/todo/999 "HTTP/1.1 404 Not Found"
+2024-02-12 09:37:58,284 - INFO - {'url': '/user/', 'method': 'GET', 'process_time': 0.003197769999587763}
+2024-02-12 09:37:58,285 - INFO - HTTP Request: GET http://testserver/user/ "HTTP/1.1 200 OK"
+2024-02-12 09:38:19,766 - INFO - {'url': '/admin/todo', 'method': 'GET', 'process_time': 0.002819238000029145}
+2024-02-12 09:38:19,768 - INFO - HTTP Request: GET http://testserver/admin/todo "HTTP/1.1 200 OK"
+2024-02-12 09:38:19,779 - INFO - {'url': '/admin/todo/1', 'method': 'DELETE', 'process_time': 0.005634733000078995}
+2024-02-12 09:38:19,780 - INFO - HTTP Request: DELETE http://testserver/admin/todo/1 "HTTP/1.1 204 No Content"
+2024-02-12 09:38:19,788 - INFO - {'url': '/admin/todo/999', 'method': 'DELETE', 'process_time': 0.0015272549999281182}
+2024-02-12 09:38:19,789 - INFO - HTTP Request: DELETE http://testserver/admin/todo/999 "HTTP/1.1 404 Not Found"
+2024-02-12 09:38:19,795 - INFO - {'url': '/healthy', 'method': 'GET', 'process_time': 0.0017899090003083984}
+2024-02-12 09:38:19,796 - INFO - HTTP Request: GET http://testserver/healthy "HTTP/1.1 200 OK"
+2024-02-12 09:38:19,803 - INFO - {'url': '/', 'method': 'GET', 'process_time': 0.0021814849997099373}
+2024-02-12 09:38:19,804 - INFO - HTTP Request: GET http://testserver/ "HTTP/1.1 200 OK"
+2024-02-12 09:38:19,811 - INFO - {'url': '/todo/1', 'method': 'GET', 'process_time': 0.0023897589999251068}
+2024-02-12 09:38:19,812 - INFO - HTTP Request: GET http://testserver/todo/1 "HTTP/1.1 200 OK"
+2024-02-12 09:38:19,819 - INFO - {'url': '/todo/999', 'method': 'GET', 'process_time': 0.0015892359997451422}
+2024-02-12 09:38:19,820 - INFO - HTTP Request: GET http://testserver/todo/999 "HTTP/1.1 404 Not Found"
+2024-02-12 09:38:19,825 - INFO - {'url': '/todo/', 'method': 'POST', 'process_time': 0.0002714789998208289}
+2024-02-12 09:38:19,826 - INFO - HTTP Request: POST http://testserver/todo/ "HTTP/1.1 307 Temporary Redirect"
+2024-02-12 09:38:19,830 - INFO - {'url': '/todo', 'method': 'POST', 'process_time': 0.002915110999765602}
+2024-02-12 09:38:19,831 - INFO - HTTP Request: POST http://testserver/todo "HTTP/1.1 201 Created"
+2024-02-12 09:38:19,842 - INFO - {'url': '/todo/1', 'method': 'PUT', 'process_time': 0.0050548109998089785}
+2024-02-12 09:38:19,842 - INFO - HTTP Request: PUT http://testserver/todo/1 "HTTP/1.1 204 No Content"
+2024-02-12 09:38:19,849 - INFO - {'url': '/todo/99', 'method': 'PUT', 'process_time': 0.00211768100007248}
+2024-02-12 09:38:19,850 - INFO - HTTP Request: PUT http://testserver/todo/99 "HTTP/1.1 404 Not Found"
+2024-02-12 09:38:19,859 - INFO - {'url': '/todo/1', 'method': 'DELETE', 'process_time': 0.00424765399975513}
+2024-02-12 09:38:19,860 - INFO - HTTP Request: DELETE http://testserver/todo/1 "HTTP/1.1 204 No Content"
+2024-02-12 09:38:19,866 - INFO - {'url': '/todo/999', 'method': 'DELETE', 'process_time': 0.0015976449999470788}
+2024-02-12 09:38:19,867 - INFO - HTTP Request: DELETE http://testserver/todo/999 "HTTP/1.1 404 Not Found"
+2024-02-12 09:38:19,872 - INFO - {'url': '/user/', 'method': 'GET', 'process_time': 0.00321650200021395}
+2024-02-12 09:38:19,873 - INFO - HTTP Request: GET http://testserver/user/ "HTTP/1.1 200 OK"
+2024-02-12 09:43:32,763 - INFO - {'url': '/admin/todo', 'method': 'GET', 'process_time': 0.0028378890001476975}
+2024-02-12 09:43:32,765 - INFO - HTTP Request: GET http://testserver/admin/todo "HTTP/1.1 200 OK"
+2024-02-12 09:43:32,777 - INFO - {'url': '/admin/todo/1', 'method': 'DELETE', 'process_time': 0.005706129999907716}
+2024-02-12 09:43:32,778 - INFO - HTTP Request: DELETE http://testserver/admin/todo/1 "HTTP/1.1 204 No Content"
+2024-02-12 09:43:32,786 - INFO - {'url': '/admin/todo/999', 'method': 'DELETE', 'process_time': 0.0015757040000607958}
+2024-02-12 09:43:32,787 - INFO - HTTP Request: DELETE http://testserver/admin/todo/999 "HTTP/1.1 404 Not Found"
+2024-02-12 09:43:32,794 - INFO - {'url': '/healthy', 'method': 'GET', 'process_time': 0.0016831260004437354}
+2024-02-12 09:43:32,795 - INFO - HTTP Request: GET http://testserver/healthy "HTTP/1.1 200 OK"
+2024-02-12 09:43:32,801 - INFO - {'url': '/', 'method': 'GET', 'process_time': 0.0019674589998430747}
+2024-02-12 09:43:32,802 - INFO - HTTP Request: GET http://testserver/ "HTTP/1.1 200 OK"
+2024-02-12 09:43:32,810 - INFO - {'url': '/todo/1', 'method': 'GET', 'process_time': 0.0025592649999452988}
+2024-02-12 09:43:32,811 - INFO - HTTP Request: GET http://testserver/todo/1 "HTTP/1.1 200 OK"
+2024-02-12 09:43:32,818 - INFO - {'url': '/todo/999', 'method': 'GET', 'process_time': 0.0015418360003423004}
+2024-02-12 09:43:32,818 - INFO - HTTP Request: GET http://testserver/todo/999 "HTTP/1.1 404 Not Found"
+2024-02-12 09:43:32,824 - INFO - {'url': '/todo/', 'method': 'POST', 'process_time': 0.00025378100008310867}
+2024-02-12 09:43:32,825 - INFO - HTTP Request: POST http://testserver/todo/ "HTTP/1.1 307 Temporary Redirect"
+2024-02-12 09:43:32,830 - INFO - {'url': '/todo', 'method': 'POST', 'process_time': 0.0037235889999465144}
+2024-02-12 09:43:32,831 - INFO - HTTP Request: POST http://testserver/todo "HTTP/1.1 201 Created"
+2024-02-12 09:43:32,842 - INFO - {'url': '/todo/1', 'method': 'PUT', 'process_time': 0.005129279999891878}
+2024-02-12 09:43:32,843 - INFO - HTTP Request: PUT http://testserver/todo/1 "HTTP/1.1 204 No Content"
+2024-02-12 09:43:32,849 - INFO - {'url': '/todo/99', 'method': 'PUT', 'process_time': 0.0017685000002529705}
+2024-02-12 09:43:32,850 - INFO - HTTP Request: PUT http://testserver/todo/99 "HTTP/1.1 404 Not Found"
+2024-02-12 09:43:32,857 - INFO - {'url': '/todo/1', 'method': 'DELETE', 'process_time': 0.0038605019999522483}
+2024-02-12 09:43:32,858 - INFO - HTTP Request: DELETE http://testserver/todo/1 "HTTP/1.1 204 No Content"
+2024-02-12 09:43:32,863 - INFO - {'url': '/todo/999', 'method': 'DELETE', 'process_time': 0.0015277630000127829}
+2024-02-12 09:43:32,864 - INFO - HTTP Request: DELETE http://testserver/todo/999 "HTTP/1.1 404 Not Found"
+2024-02-12 09:43:32,869 - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.12/site-packages/passlib/handlers/bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2024-02-12 09:43:33,176 - INFO - {'url': '/user/', 'method': 'GET', 'process_time': 0.019891950999863184}
+2024-02-12 09:43:33,178 - INFO - HTTP Request: GET http://testserver/user/ "HTTP/1.1 200 OK"
+2024-02-12 09:46:32,168 - INFO - {'url': '/admin/todo', 'method': 'GET', 'process_time': 0.003095418000157224}
+2024-02-12 09:46:32,169 - INFO - HTTP Request: GET http://testserver/admin/todo "HTTP/1.1 200 OK"
+2024-02-12 09:46:32,183 - INFO - {'url': '/admin/todo/1', 'method': 'DELETE', 'process_time': 0.006298664999576431}
+2024-02-12 09:46:32,184 - INFO - HTTP Request: DELETE http://testserver/admin/todo/1 "HTTP/1.1 204 No Content"
+2024-02-12 09:46:32,193 - INFO - {'url': '/admin/todo/999', 'method': 'DELETE', 'process_time': 0.001853853000284289}
+2024-02-12 09:46:32,194 - INFO - HTTP Request: DELETE http://testserver/admin/todo/999 "HTTP/1.1 404 Not Found"
+2024-02-12 09:46:32,200 - INFO - {'url': '/healthy', 'method': 'GET', 'process_time': 0.0005159209999874292}
+2024-02-12 09:46:32,201 - INFO - HTTP Request: GET http://testserver/healthy "HTTP/1.1 200 OK"
+2024-02-12 09:46:32,209 - INFO - {'url': '/', 'method': 'GET', 'process_time': 0.0027835500000037428}
+2024-02-12 09:46:32,210 - INFO - HTTP Request: GET http://testserver/ "HTTP/1.1 200 OK"
+2024-02-12 09:46:32,218 - INFO - {'url': '/todo/1', 'method': 'GET', 'process_time': 0.0023589289999108587}
+2024-02-12 09:46:32,219 - INFO - HTTP Request: GET http://testserver/todo/1 "HTTP/1.1 200 OK"
+2024-02-12 09:46:32,227 - INFO - {'url': '/todo/999', 'method': 'GET', 'process_time': 0.0018571519999568409}
+2024-02-12 09:46:32,228 - INFO - HTTP Request: GET http://testserver/todo/999 "HTTP/1.1 404 Not Found"
+2024-02-12 09:46:32,234 - INFO - {'url': '/todo/', 'method': 'POST', 'process_time': 0.00024740199978623423}
+2024-02-12 09:46:32,235 - INFO - HTTP Request: POST http://testserver/todo/ "HTTP/1.1 307 Temporary Redirect"
+2024-02-12 09:46:32,239 - INFO - {'url': '/todo', 'method': 'POST', 'process_time': 0.00336810399994647}
+2024-02-12 09:46:32,240 - INFO - HTTP Request: POST http://testserver/todo "HTTP/1.1 201 Created"
+2024-02-12 09:46:32,251 - INFO - {'url': '/todo/1', 'method': 'PUT', 'process_time': 0.005209571999785112}
+2024-02-12 09:46:32,252 - INFO - HTTP Request: PUT http://testserver/todo/1 "HTTP/1.1 204 No Content"
+2024-02-12 09:46:32,259 - INFO - {'url': '/todo/99', 'method': 'PUT', 'process_time': 0.00205763299982209}
+2024-02-12 09:46:32,260 - INFO - HTTP Request: PUT http://testserver/todo/99 "HTTP/1.1 404 Not Found"
+2024-02-12 09:46:32,269 - INFO - {'url': '/todo/1', 'method': 'DELETE', 'process_time': 0.004237607000050048}
+2024-02-12 09:46:32,270 - INFO - HTTP Request: DELETE http://testserver/todo/1 "HTTP/1.1 204 No Content"
+2024-02-12 09:46:32,275 - INFO - {'url': '/todo/999', 'method': 'DELETE', 'process_time': 0.0016055229998528375}
+2024-02-12 09:46:32,276 - INFO - HTTP Request: DELETE http://testserver/todo/999 "HTTP/1.1 404 Not Found"
+2024-02-12 09:46:32,278 - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.12/site-packages/passlib/handlers/bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2024-02-12 09:46:32,573 - INFO - {'url': '/user/', 'method': 'GET', 'process_time': 0.009191556999667228}
+2024-02-12 09:46:32,574 - INFO - HTTP Request: GET http://testserver/user/ "HTTP/1.1 200 OK"
+2024-02-12 09:46:33,368 - INFO - {'url': '/user/change_password', 'method': 'PUT', 'process_time': 0.5286631330000091}
+2024-02-12 09:46:33,369 - INFO - HTTP Request: PUT http://testserver/user/change_password "HTTP/1.1 204 No Content"
+2024-02-12 09:48:15,721 - INFO - {'url': '/admin/todo', 'method': 'GET', 'process_time': 0.0037585899999612593}
+2024-02-12 09:48:15,723 - INFO - HTTP Request: GET http://testserver/admin/todo "HTTP/1.1 200 OK"
+2024-02-12 09:48:15,734 - INFO - {'url': '/admin/todo/1', 'method': 'DELETE', 'process_time': 0.004848178999964148}
+2024-02-12 09:48:15,735 - INFO - HTTP Request: DELETE http://testserver/admin/todo/1 "HTTP/1.1 204 No Content"
+2024-02-12 09:48:15,743 - INFO - {'url': '/admin/todo/999', 'method': 'DELETE', 'process_time': 0.0018202299997938098}
+2024-02-12 09:48:15,744 - INFO - HTTP Request: DELETE http://testserver/admin/todo/999 "HTTP/1.1 404 Not Found"
+2024-02-12 09:48:15,750 - INFO - {'url': '/healthy', 'method': 'GET', 'process_time': 0.0007892210001045896}
+2024-02-12 09:48:15,751 - INFO - HTTP Request: GET http://testserver/healthy "HTTP/1.1 200 OK"
+2024-02-12 09:48:15,756 - INFO - {'url': '/', 'method': 'GET', 'process_time': 0.0020206029998917074}
+2024-02-12 09:48:15,758 - INFO - HTTP Request: GET http://testserver/ "HTTP/1.1 200 OK"
+2024-02-12 09:48:15,766 - INFO - {'url': '/todo/1', 'method': 'GET', 'process_time': 0.0028770849999091297}
+2024-02-12 09:48:15,767 - INFO - HTTP Request: GET http://testserver/todo/1 "HTTP/1.1 200 OK"
+2024-02-12 09:48:15,774 - INFO - {'url': '/todo/999', 'method': 'GET', 'process_time': 0.001616782999917632}
+2024-02-12 09:48:15,775 - INFO - HTTP Request: GET http://testserver/todo/999 "HTTP/1.1 404 Not Found"
+2024-02-12 09:48:15,780 - INFO - {'url': '/todo/', 'method': 'POST', 'process_time': 0.00025512000001981505}
+2024-02-12 09:48:15,781 - INFO - HTTP Request: POST http://testserver/todo/ "HTTP/1.1 307 Temporary Redirect"
+2024-02-12 09:48:15,785 - INFO - {'url': '/todo', 'method': 'POST', 'process_time': 0.003140663000067434}
+2024-02-12 09:48:15,786 - INFO - HTTP Request: POST http://testserver/todo "HTTP/1.1 201 Created"
+2024-02-12 09:48:15,797 - INFO - {'url': '/todo/1', 'method': 'PUT', 'process_time': 0.005110788000365574}
+2024-02-12 09:48:15,798 - INFO - HTTP Request: PUT http://testserver/todo/1 "HTTP/1.1 204 No Content"
+2024-02-12 09:48:15,803 - INFO - {'url': '/todo/99', 'method': 'PUT', 'process_time': 0.0018750149997686094}
+2024-02-12 09:48:15,804 - INFO - HTTP Request: PUT http://testserver/todo/99 "HTTP/1.1 404 Not Found"
+2024-02-12 09:48:15,811 - INFO - {'url': '/todo/1', 'method': 'DELETE', 'process_time': 0.0038861889997861}
+2024-02-12 09:48:15,812 - INFO - HTTP Request: DELETE http://testserver/todo/1 "HTTP/1.1 204 No Content"
+2024-02-12 09:48:15,817 - INFO - {'url': '/todo/999', 'method': 'DELETE', 'process_time': 0.0014427860000978399}
+2024-02-12 09:48:15,818 - INFO - HTTP Request: DELETE http://testserver/todo/999 "HTTP/1.1 404 Not Found"
+2024-02-12 09:48:15,821 - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.12/site-packages/passlib/handlers/bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2024-02-12 09:48:16,116 - INFO - {'url': '/user/', 'method': 'GET', 'process_time': 0.009007681000184675}
+2024-02-12 09:48:16,117 - INFO - HTTP Request: GET http://testserver/user/ "HTTP/1.1 200 OK"
+2024-02-12 09:48:16,883 - INFO - {'url': '/user/change_password', 'method': 'PUT', 'process_time': 0.5045974350000506}
+2024-02-12 09:48:16,884 - INFO - HTTP Request: PUT http://testserver/user/change_password "HTTP/1.1 204 No Content"
+2024-02-12 09:48:17,391 - INFO - {'url': '/user/change_password', 'method': 'PUT', 'process_time': 0.24712331699993229}
+2024-02-12 09:48:17,392 - INFO - HTTP Request: PUT http://testserver/user/change_password "HTTP/1.1 401 Unauthorized"
+2024-02-12 09:48:34,825 - INFO - {'url': '/admin/todo', 'method': 'GET', 'process_time': 0.003615022999838402}
+2024-02-12 09:48:34,827 - INFO - HTTP Request: GET http://testserver/admin/todo "HTTP/1.1 200 OK"
+2024-02-12 09:48:34,839 - INFO - {'url': '/admin/todo/1', 'method': 'DELETE', 'process_time': 0.005262721999770292}
+2024-02-12 09:48:34,840 - INFO - HTTP Request: DELETE http://testserver/admin/todo/1 "HTTP/1.1 204 No Content"
+2024-02-12 09:48:34,849 - INFO - {'url': '/admin/todo/999', 'method': 'DELETE', 'process_time': 0.002425384999696689}
+2024-02-12 09:48:34,850 - INFO - HTTP Request: DELETE http://testserver/admin/todo/999 "HTTP/1.1 404 Not Found"
+2024-02-12 09:48:34,855 - INFO - {'url': '/healthy', 'method': 'GET', 'process_time': 0.0007565209998574574}
+2024-02-12 09:48:34,856 - INFO - HTTP Request: GET http://testserver/healthy "HTTP/1.1 200 OK"
+2024-02-12 09:48:34,862 - INFO - {'url': '/', 'method': 'GET', 'process_time': 0.0022167590000208293}
+2024-02-12 09:48:34,863 - INFO - HTTP Request: GET http://testserver/ "HTTP/1.1 200 OK"
+2024-02-12 09:48:34,872 - INFO - {'url': '/todo/1', 'method': 'GET', 'process_time': 0.002573637000296003}
+2024-02-12 09:48:34,873 - INFO - HTTP Request: GET http://testserver/todo/1 "HTTP/1.1 200 OK"
+2024-02-12 09:48:34,880 - INFO - {'url': '/todo/999', 'method': 'GET', 'process_time': 0.0017976950002775993}
+2024-02-12 09:48:34,881 - INFO - HTTP Request: GET http://testserver/todo/999 "HTTP/1.1 404 Not Found"
+2024-02-12 09:48:34,887 - INFO - {'url': '/todo/', 'method': 'POST', 'process_time': 0.00025123500017798506}
+2024-02-12 09:48:34,888 - INFO - HTTP Request: POST http://testserver/todo/ "HTTP/1.1 307 Temporary Redirect"
+2024-02-12 09:48:34,892 - INFO - {'url': '/todo', 'method': 'POST', 'process_time': 0.003123930000128894}
+2024-02-12 09:48:34,893 - INFO - HTTP Request: POST http://testserver/todo "HTTP/1.1 201 Created"
+2024-02-12 09:48:34,904 - INFO - {'url': '/todo/1', 'method': 'PUT', 'process_time': 0.0050218429996675695}
+2024-02-12 09:48:34,905 - INFO - HTTP Request: PUT http://testserver/todo/1 "HTTP/1.1 204 No Content"
+2024-02-12 09:48:34,911 - INFO - {'url': '/todo/99', 'method': 'PUT', 'process_time': 0.001794163999875309}
+2024-02-12 09:48:34,912 - INFO - HTTP Request: PUT http://testserver/todo/99 "HTTP/1.1 404 Not Found"
+2024-02-12 09:48:34,920 - INFO - {'url': '/todo/1', 'method': 'DELETE', 'process_time': 0.004521030999967479}
+2024-02-12 09:48:34,921 - INFO - HTTP Request: DELETE http://testserver/todo/1 "HTTP/1.1 204 No Content"
+2024-02-12 09:48:34,927 - INFO - {'url': '/todo/999', 'method': 'DELETE', 'process_time': 0.00185109799986094}
+2024-02-12 09:48:34,928 - INFO - HTTP Request: DELETE http://testserver/todo/999 "HTTP/1.1 404 Not Found"
+2024-02-12 09:48:34,930 - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.12/site-packages/passlib/handlers/bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2024-02-12 09:48:35,224 - INFO - {'url': '/user/', 'method': 'GET', 'process_time': 0.009119136000208528}
+2024-02-12 09:48:35,225 - INFO - HTTP Request: GET http://testserver/user/ "HTTP/1.1 200 OK"
+2024-02-12 09:48:35,993 - INFO - {'url': '/user/change_password', 'method': 'PUT', 'process_time': 0.5057565739998608}
+2024-02-12 09:48:35,994 - INFO - HTTP Request: PUT http://testserver/user/change_password "HTTP/1.1 204 No Content"
+2024-02-12 09:48:36,507 - INFO - {'url': '/user/change_password', 'method': 'PUT', 'process_time': 0.250346011000147}
+2024-02-12 09:48:36,508 - INFO - HTTP Request: PUT http://testserver/user/change_password "HTTP/1.1 401 Unauthorized"
+2024-02-12 09:54:04,253 - INFO - {'url': '/admin/todo', 'method': 'GET', 'process_time': 0.0029283149997354485}
+2024-02-12 09:54:04,254 - INFO - HTTP Request: GET http://testserver/admin/todo "HTTP/1.1 200 OK"
+2024-02-12 09:54:04,269 - INFO - {'url': '/admin/todo/1', 'method': 'DELETE', 'process_time': 0.006690649000120175}
+2024-02-12 09:54:04,270 - INFO - HTTP Request: DELETE http://testserver/admin/todo/1 "HTTP/1.1 204 No Content"
+2024-02-12 09:54:04,278 - INFO - {'url': '/admin/todo/999', 'method': 'DELETE', 'process_time': 0.002190723999774491}
+2024-02-12 09:54:04,279 - INFO - HTTP Request: DELETE http://testserver/admin/todo/999 "HTTP/1.1 404 Not Found"
+2024-02-12 09:54:04,284 - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.12/site-packages/passlib/handlers/bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2024-02-12 09:54:04,880 - INFO - {'url': '/healthy', 'method': 'GET', 'process_time': 0.0009074549998331349}
+2024-02-12 09:54:04,882 - INFO - HTTP Request: GET http://testserver/healthy "HTTP/1.1 200 OK"
+2024-02-12 09:54:04,889 - INFO - {'url': '/', 'method': 'GET', 'process_time': 0.002701572000660235}
+2024-02-12 09:54:04,890 - INFO - HTTP Request: GET http://testserver/ "HTTP/1.1 200 OK"
+2024-02-12 09:54:04,899 - INFO - {'url': '/todo/1', 'method': 'GET', 'process_time': 0.002841886999704002}
+2024-02-12 09:54:04,901 - INFO - HTTP Request: GET http://testserver/todo/1 "HTTP/1.1 200 OK"
+2024-02-12 09:54:04,908 - INFO - {'url': '/todo/999', 'method': 'GET', 'process_time': 0.002056671999525861}
+2024-02-12 09:54:04,909 - INFO - HTTP Request: GET http://testserver/todo/999 "HTTP/1.1 404 Not Found"
+2024-02-12 09:54:04,916 - INFO - {'url': '/todo/', 'method': 'POST', 'process_time': 0.0003166289998262073}
+2024-02-12 09:54:04,917 - INFO - HTTP Request: POST http://testserver/todo/ "HTTP/1.1 307 Temporary Redirect"
+2024-02-12 09:54:04,921 - INFO - {'url': '/todo', 'method': 'POST', 'process_time': 0.0037597240007016808}
+2024-02-12 09:54:04,923 - INFO - HTTP Request: POST http://testserver/todo "HTTP/1.1 201 Created"
+2024-02-12 09:54:04,935 - INFO - {'url': '/todo/1', 'method': 'PUT', 'process_time': 0.005774704000032216}
+2024-02-12 09:54:04,936 - INFO - HTTP Request: PUT http://testserver/todo/1 "HTTP/1.1 204 No Content"
+2024-02-12 09:54:04,942 - INFO - {'url': '/todo/99', 'method': 'PUT', 'process_time': 0.0019425939999564434}
+2024-02-12 09:54:04,943 - INFO - HTTP Request: PUT http://testserver/todo/99 "HTTP/1.1 404 Not Found"
+2024-02-12 09:54:04,952 - INFO - {'url': '/todo/1', 'method': 'DELETE', 'process_time': 0.004432239000379923}
+2024-02-12 09:54:04,953 - INFO - HTTP Request: DELETE http://testserver/todo/1 "HTTP/1.1 204 No Content"
+2024-02-12 09:54:04,960 - INFO - {'url': '/todo/999', 'method': 'DELETE', 'process_time': 0.0019467190004434087}
+2024-02-12 09:54:04,961 - INFO - HTTP Request: DELETE http://testserver/todo/999 "HTTP/1.1 404 Not Found"
+2024-02-12 09:54:05,250 - INFO - {'url': '/user/', 'method': 'GET', 'process_time': 0.00909379800032184}
+2024-02-12 09:54:05,251 - INFO - HTTP Request: GET http://testserver/user/ "HTTP/1.1 200 OK"
+2024-02-12 09:54:06,026 - INFO - {'url': '/user/change_password', 'method': 'PUT', 'process_time': 0.5144816700003503}
+2024-02-12 09:54:06,029 - INFO - HTTP Request: PUT http://testserver/user/change_password "HTTP/1.1 204 No Content"
+2024-02-12 09:54:06,561 - INFO - {'url': '/user/change_password', 'method': 'PUT', 'process_time': 0.2509131950000665}
+2024-02-12 09:54:06,562 - INFO - HTTP Request: PUT http://testserver/user/change_password "HTTP/1.1 401 Unauthorized"
+2024-02-12 10:00:35,881 - INFO - {'url': '/admin/todo', 'method': 'GET', 'process_time': 0.0029177180003898684}
+2024-02-12 10:00:35,883 - INFO - HTTP Request: GET http://testserver/admin/todo "HTTP/1.1 200 OK"
+2024-02-12 10:00:35,899 - INFO - {'url': '/admin/todo/1', 'method': 'DELETE', 'process_time': 0.009014587999445212}
+2024-02-12 10:00:35,900 - INFO - HTTP Request: DELETE http://testserver/admin/todo/1 "HTTP/1.1 204 No Content"
+2024-02-12 10:00:35,911 - INFO - {'url': '/admin/todo/999', 'method': 'DELETE', 'process_time': 0.0023339620001934236}
+2024-02-12 10:00:35,912 - INFO - HTTP Request: DELETE http://testserver/admin/todo/999 "HTTP/1.1 404 Not Found"
+2024-02-12 10:00:35,917 - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.12/site-packages/passlib/handlers/bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2024-02-12 10:00:36,474 - INFO - {'url': '/healthy', 'method': 'GET', 'process_time': 0.0005588270005318918}
+2024-02-12 10:00:36,475 - INFO - HTTP Request: GET http://testserver/healthy "HTTP/1.1 200 OK"
+2024-02-12 10:00:36,484 - INFO - {'url': '/', 'method': 'GET', 'process_time': 0.002534027000365313}
+2024-02-12 10:00:36,485 - INFO - HTTP Request: GET http://testserver/ "HTTP/1.1 200 OK"
+2024-02-12 10:00:36,493 - INFO - {'url': '/todo/1', 'method': 'GET', 'process_time': 0.002368856999964919}
+2024-02-12 10:00:36,494 - INFO - HTTP Request: GET http://testserver/todo/1 "HTTP/1.1 200 OK"
+2024-02-12 10:00:36,501 - INFO - {'url': '/todo/999', 'method': 'GET', 'process_time': 0.00177640799938672}
+2024-02-12 10:00:36,502 - INFO - HTTP Request: GET http://testserver/todo/999 "HTTP/1.1 404 Not Found"
+2024-02-12 10:00:36,509 - INFO - {'url': '/todo/', 'method': 'POST', 'process_time': 0.0003063120002479991}
+2024-02-12 10:00:36,510 - INFO - HTTP Request: POST http://testserver/todo/ "HTTP/1.1 307 Temporary Redirect"
+2024-02-12 10:00:36,515 - INFO - {'url': '/todo', 'method': 'POST', 'process_time': 0.0034608349997142795}
+2024-02-12 10:00:36,516 - INFO - HTTP Request: POST http://testserver/todo "HTTP/1.1 201 Created"
+2024-02-12 10:00:36,527 - INFO - {'url': '/todo/1', 'method': 'PUT', 'process_time': 0.006149026000457525}
+2024-02-12 10:00:36,528 - INFO - HTTP Request: PUT http://testserver/todo/1 "HTTP/1.1 204 No Content"
+2024-02-12 10:00:36,535 - INFO - {'url': '/todo/99', 'method': 'PUT', 'process_time': 0.001913613000397163}
+2024-02-12 10:00:36,536 - INFO - HTTP Request: PUT http://testserver/todo/99 "HTTP/1.1 404 Not Found"
+2024-02-12 10:00:36,545 - INFO - {'url': '/todo/1', 'method': 'DELETE', 'process_time': 0.004036325000015495}
+2024-02-12 10:00:36,546 - INFO - HTTP Request: DELETE http://testserver/todo/1 "HTTP/1.1 204 No Content"
+2024-02-12 10:00:36,551 - INFO - {'url': '/todo/999', 'method': 'DELETE', 'process_time': 0.0014683370000057039}
+2024-02-12 10:00:36,552 - INFO - HTTP Request: DELETE http://testserver/todo/999 "HTTP/1.1 404 Not Found"
+2024-02-12 10:00:36,841 - INFO - {'url': '/user/', 'method': 'GET', 'process_time': 0.008362063999811653}
+2024-02-12 10:00:36,842 - INFO - HTTP Request: GET http://testserver/user/ "HTTP/1.1 200 OK"
+2024-02-12 10:00:37,637 - INFO - {'url': '/user/change_password', 'method': 'PUT', 'process_time': 0.524850953999703}
+2024-02-12 10:00:37,638 - INFO - HTTP Request: PUT http://testserver/user/change_password "HTTP/1.1 204 No Content"
+2024-02-12 10:00:38,224 - INFO - {'url': '/user/change_password', 'method': 'PUT', 'process_time': 0.2866246180001326}
+2024-02-12 10:00:38,225 - INFO - HTTP Request: PUT http://testserver/user/change_password "HTTP/1.1 401 Unauthorized"
+2024-02-12 10:10:15,207 - INFO - {'url': '/admin/todo', 'method': 'GET', 'process_time': 0.002874556999813649}
+2024-02-12 10:10:15,208 - INFO - HTTP Request: GET http://testserver/admin/todo "HTTP/1.1 200 OK"
+2024-02-12 10:10:15,221 - INFO - {'url': '/admin/todo/1', 'method': 'DELETE', 'process_time': 0.005746831000578823}
+2024-02-12 10:10:15,222 - INFO - HTTP Request: DELETE http://testserver/admin/todo/1 "HTTP/1.1 204 No Content"
+2024-02-12 10:10:15,229 - INFO - {'url': '/admin/todo/999', 'method': 'DELETE', 'process_time': 0.0014490270004898775}
+2024-02-12 10:10:15,230 - INFO - HTTP Request: DELETE http://testserver/admin/todo/999 "HTTP/1.1 404 Not Found"
+2024-02-12 10:10:15,234 - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.12/site-packages/passlib/handlers/bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2024-02-12 10:10:15,788 - INFO - {'url': '/healthy', 'method': 'GET', 'process_time': 0.0005875339993508533}
+2024-02-12 10:10:15,789 - INFO - HTTP Request: GET http://testserver/healthy "HTTP/1.1 200 OK"
+2024-02-12 10:10:15,796 - INFO - {'url': '/', 'method': 'GET', 'process_time': 0.002401736999672721}
+2024-02-12 10:10:15,797 - INFO - HTTP Request: GET http://testserver/ "HTTP/1.1 200 OK"
+2024-02-12 10:10:15,805 - INFO - {'url': '/todo/1', 'method': 'GET', 'process_time': 0.0025599820000934415}
+2024-02-12 10:10:15,806 - INFO - HTTP Request: GET http://testserver/todo/1 "HTTP/1.1 200 OK"
+2024-02-12 10:10:15,813 - INFO - {'url': '/todo/999', 'method': 'GET', 'process_time': 0.0021050549994470202}
+2024-02-12 10:10:15,815 - INFO - HTTP Request: GET http://testserver/todo/999 "HTTP/1.1 404 Not Found"
+2024-02-12 10:10:15,821 - INFO - {'url': '/todo/', 'method': 'POST', 'process_time': 0.0002570809992903378}
+2024-02-12 10:10:15,822 - INFO - HTTP Request: POST http://testserver/todo/ "HTTP/1.1 307 Temporary Redirect"
+2024-02-12 10:10:15,826 - INFO - {'url': '/todo', 'method': 'POST', 'process_time': 0.002998982000463002}
+2024-02-12 10:10:15,827 - INFO - HTTP Request: POST http://testserver/todo "HTTP/1.1 201 Created"
+2024-02-12 10:10:15,839 - INFO - {'url': '/todo/1', 'method': 'PUT', 'process_time': 0.0050375430000713095}
+2024-02-12 10:10:15,840 - INFO - HTTP Request: PUT http://testserver/todo/1 "HTTP/1.1 204 No Content"
+2024-02-12 10:10:15,845 - INFO - {'url': '/todo/99', 'method': 'PUT', 'process_time': 0.001673036999818578}
+2024-02-12 10:10:15,846 - INFO - HTTP Request: PUT http://testserver/todo/99 "HTTP/1.1 404 Not Found"
+2024-02-12 10:10:15,855 - INFO - {'url': '/todo/1', 'method': 'DELETE', 'process_time': 0.0048050650002551265}
+2024-02-12 10:10:15,856 - INFO - HTTP Request: DELETE http://testserver/todo/1 "HTTP/1.1 204 No Content"
+2024-02-12 10:10:15,862 - INFO - {'url': '/todo/999', 'method': 'DELETE', 'process_time': 0.0014756559994566487}
+2024-02-12 10:10:15,863 - INFO - HTTP Request: DELETE http://testserver/todo/999 "HTTP/1.1 404 Not Found"
+2024-02-12 10:10:16,137 - INFO - {'url': '/user/', 'method': 'GET', 'process_time': 0.008651140000438318}
+2024-02-12 10:10:16,138 - INFO - HTTP Request: GET http://testserver/user/ "HTTP/1.1 200 OK"
+2024-02-12 10:10:16,930 - INFO - {'url': '/user/change_password', 'method': 'PUT', 'process_time': 0.5270231310005329}
+2024-02-12 10:10:16,931 - INFO - HTTP Request: PUT http://testserver/user/change_password "HTTP/1.1 204 No Content"
+2024-02-12 10:10:17,446 - INFO - {'url': '/user/change_password', 'method': 'PUT', 'process_time': 0.2512940759997946}
+2024-02-12 10:10:17,447 - INFO - HTTP Request: PUT http://testserver/user/change_password "HTTP/1.1 401 Unauthorized"
+2024-02-12 10:12:56,565 - INFO - {'url': '/admin/todo', 'method': 'GET', 'process_time': 0.0029251949999888893}
+2024-02-12 10:12:56,566 - INFO - HTTP Request: GET http://testserver/admin/todo "HTTP/1.1 200 OK"
+2024-02-12 10:12:56,579 - INFO - {'url': '/admin/todo/1', 'method': 'DELETE', 'process_time': 0.005594018999545369}
+2024-02-12 10:12:56,580 - INFO - HTTP Request: DELETE http://testserver/admin/todo/1 "HTTP/1.1 204 No Content"
+2024-02-12 10:12:56,589 - INFO - {'url': '/admin/todo/999', 'method': 'DELETE', 'process_time': 0.0018853609999496257}
+2024-02-12 10:12:56,590 - INFO - HTTP Request: DELETE http://testserver/admin/todo/999 "HTTP/1.1 404 Not Found"
+2024-02-12 10:12:56,594 - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.12/site-packages/passlib/handlers/bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2024-02-12 10:12:57,192 - INFO - {'url': '/healthy', 'method': 'GET', 'process_time': 0.001016473000163387}
+2024-02-12 10:12:57,193 - INFO - HTTP Request: GET http://testserver/healthy "HTTP/1.1 200 OK"
+2024-02-12 10:12:57,201 - INFO - {'url': '/', 'method': 'GET', 'process_time': 0.003090723000241269}
+2024-02-12 10:12:57,202 - INFO - HTTP Request: GET http://testserver/ "HTTP/1.1 200 OK"
+2024-02-12 10:12:57,211 - INFO - {'url': '/todo/1', 'method': 'GET', 'process_time': 0.002725813000324706}
+2024-02-12 10:12:57,212 - INFO - HTTP Request: GET http://testserver/todo/1 "HTTP/1.1 200 OK"
+2024-02-12 10:12:57,221 - INFO - {'url': '/todo/999', 'method': 'GET', 'process_time': 0.001991864999581594}
+2024-02-12 10:12:57,222 - INFO - HTTP Request: GET http://testserver/todo/999 "HTTP/1.1 404 Not Found"
+2024-02-12 10:12:57,228 - INFO - {'url': '/todo/', 'method': 'POST', 'process_time': 0.0002531179998186417}
+2024-02-12 10:12:57,229 - INFO - HTTP Request: POST http://testserver/todo/ "HTTP/1.1 307 Temporary Redirect"
+2024-02-12 10:12:57,235 - INFO - {'url': '/todo', 'method': 'POST', 'process_time': 0.004255487000591529}
+2024-02-12 10:12:57,236 - INFO - HTTP Request: POST http://testserver/todo "HTTP/1.1 201 Created"
+2024-02-12 10:12:57,249 - INFO - {'url': '/todo/1', 'method': 'PUT', 'process_time': 0.006018113999743946}
+2024-02-12 10:12:57,250 - INFO - HTTP Request: PUT http://testserver/todo/1 "HTTP/1.1 204 No Content"
+2024-02-12 10:12:57,256 - INFO - {'url': '/todo/99', 'method': 'PUT', 'process_time': 0.0019196220000594622}
+2024-02-12 10:12:57,257 - INFO - HTTP Request: PUT http://testserver/todo/99 "HTTP/1.1 404 Not Found"
+2024-02-12 10:12:57,266 - INFO - {'url': '/todo/1', 'method': 'DELETE', 'process_time': 0.00473751000026823}
+2024-02-12 10:12:57,267 - INFO - HTTP Request: DELETE http://testserver/todo/1 "HTTP/1.1 204 No Content"
+2024-02-12 10:12:57,273 - INFO - {'url': '/todo/999', 'method': 'DELETE', 'process_time': 0.001513318000434083}
+2024-02-12 10:12:57,274 - INFO - HTTP Request: DELETE http://testserver/todo/999 "HTTP/1.1 404 Not Found"
+2024-02-12 10:12:57,553 - INFO - {'url': '/user/', 'method': 'GET', 'process_time': 0.008386017999328033}
+2024-02-12 10:12:57,554 - INFO - HTTP Request: GET http://testserver/user/ "HTTP/1.1 200 OK"
+2024-02-12 10:12:58,345 - INFO - {'url': '/user/change_password', 'method': 'PUT', 'process_time': 0.5209309660003782}
+2024-02-12 10:12:58,346 - INFO - HTTP Request: PUT http://testserver/user/change_password "HTTP/1.1 204 No Content"
+2024-02-12 10:12:58,933 - INFO - {'url': '/user/change_password', 'method': 'PUT', 'process_time': 0.28454469600001175}
+2024-02-12 10:12:58,934 - INFO - HTTP Request: PUT http://testserver/user/change_password "HTTP/1.1 401 Unauthorized"
+2024-02-12 10:13:15,723 - INFO - {'url': '/admin/todo', 'method': 'GET', 'process_time': 0.003305640000689891}
+2024-02-12 10:13:15,725 - INFO - HTTP Request: GET http://testserver/admin/todo "HTTP/1.1 200 OK"
+2024-02-12 10:13:15,738 - INFO - {'url': '/admin/todo/1', 'method': 'DELETE', 'process_time': 0.0060617859999183565}
+2024-02-12 10:13:15,739 - INFO - HTTP Request: DELETE http://testserver/admin/todo/1 "HTTP/1.1 204 No Content"
+2024-02-12 10:13:15,748 - INFO - {'url': '/admin/todo/999', 'method': 'DELETE', 'process_time': 0.0020528430004560505}
+2024-02-12 10:13:15,749 - INFO - HTTP Request: DELETE http://testserver/admin/todo/999 "HTTP/1.1 404 Not Found"
+2024-02-12 10:13:15,754 - WARNING - (trapped) error reading bcrypt version
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.12/site-packages/passlib/handlers/bcrypt.py", line 620, in _load_backend_mixin
+    version = _bcrypt.__about__.__version__
+              ^^^^^^^^^^^^^^^^^
+AttributeError: module 'bcrypt' has no attribute '__about__'
+2024-02-12 10:13:16,325 - INFO - {'url': '/healthy', 'method': 'GET', 'process_time': 0.0006192800001372234}
+2024-02-12 10:13:16,327 - INFO - HTTP Request: GET http://testserver/healthy "HTTP/1.1 200 OK"
+2024-02-12 10:13:16,334 - INFO - {'url': '/', 'method': 'GET', 'process_time': 0.003155823999804852}
+2024-02-12 10:13:16,335 - INFO - HTTP Request: GET http://testserver/ "HTTP/1.1 200 OK"
+2024-02-12 10:13:16,344 - INFO - {'url': '/todo/1', 'method': 'GET', 'process_time': 0.003049646999897959}
+2024-02-12 10:13:16,345 - INFO - HTTP Request: GET http://testserver/todo/1 "HTTP/1.1 200 OK"
+2024-02-12 10:13:16,353 - INFO - {'url': '/todo/999', 'method': 'GET', 'process_time': 0.0017609119995540823}
+2024-02-12 10:13:16,354 - INFO - HTTP Request: GET http://testserver/todo/999 "HTTP/1.1 404 Not Found"
+2024-02-12 10:13:16,360 - INFO - {'url': '/todo/', 'method': 'POST', 'process_time': 0.00026227299986203434}
+2024-02-12 10:13:16,362 - INFO - HTTP Request: POST http://testserver/todo/ "HTTP/1.1 307 Temporary Redirect"
+2024-02-12 10:13:16,367 - INFO - {'url': '/todo', 'method': 'POST', 'process_time': 0.003625256999839621}
+2024-02-12 10:13:16,367 - INFO - HTTP Request: POST http://testserver/todo "HTTP/1.1 201 Created"
+2024-02-12 10:13:16,379 - INFO - {'url': '/todo/1', 'method': 'PUT', 'process_time': 0.0057639759997982765}
+2024-02-12 10:13:16,380 - INFO - HTTP Request: PUT http://testserver/todo/1 "HTTP/1.1 204 No Content"
+2024-02-12 10:13:16,387 - INFO - {'url': '/todo/99', 'method': 'PUT', 'process_time': 0.001930874999743537}
+2024-02-12 10:13:16,388 - INFO - HTTP Request: PUT http://testserver/todo/99 "HTTP/1.1 404 Not Found"
+2024-02-12 10:13:16,397 - INFO - {'url': '/todo/1', 'method': 'DELETE', 'process_time': 0.004816826000023866}
+2024-02-12 10:13:16,398 - INFO - HTTP Request: DELETE http://testserver/todo/1 "HTTP/1.1 204 No Content"
+2024-02-12 10:13:16,404 - INFO - {'url': '/todo/999', 'method': 'DELETE', 'process_time': 0.0016339399999196758}
+2024-02-12 10:13:16,405 - INFO - HTTP Request: DELETE http://testserver/todo/999 "HTTP/1.1 404 Not Found"
+2024-02-12 10:13:16,678 - INFO - {'url': '/user/', 'method': 'GET', 'process_time': 0.008367020999685337}
+2024-02-12 10:13:16,679 - INFO - HTTP Request: GET http://testserver/user/ "HTTP/1.1 200 OK"
+2024-02-12 10:13:17,461 - INFO - {'url': '/user/change_password', 'method': 'PUT', 'process_time': 0.51372733000062}
+2024-02-12 10:13:17,462 - INFO - HTTP Request: PUT http://testserver/user/change_password "HTTP/1.1 204 No Content"
+2024-02-12 10:13:18,010 - INFO - {'url': '/user/change_password', 'method': 'PUT', 'process_time': 0.28027897399988433}
+2024-02-12 10:13:18,012 - INFO - HTTP Request: PUT http://testserver/user/change_password "HTTP/1.1 401 Unauthorized"
+2024-02-12 10:30:28,217 - INFO - {'url': '/todos/test', 'method': 'GET', 'process_time': 0.005673829999977897}
+2024-02-12 10:30:29,268 - INFO - {'url': '/favicon.ico', 'method': 'GET', 'process_time': 0.0004652659999919706}
+2024-02-13 09:46:16,050 - INFO - {'url': '/', 'method': 'GET', 'process_time': 0.00133545700009563}
+2024-02-13 09:46:33,479 - INFO - {'url': '/todos/test', 'method': 'GET', 'process_time': 0.005897044999983336}
+2024-02-13 09:46:33,777 - INFO - {'url': '/favicon.ico', 'method': 'GET', 'process_time': 0.0003004950003742124}
+2024-02-13 09:47:48,561 - INFO - {'url': '/todos/test', 'method': 'GET', 'process_time': 0.012389718999656907}
+2024-02-13 09:47:48,629 - INFO - {'url': '/static/todo/css/base.css', 'method': 'GET', 'process_time': 0.02207082599943533}
+2024-02-13 10:05:08,763 - INFO - {'url': '/todos/test', 'method': 'GET', 'process_time': 0.003521071000250231}
+2024-02-13 10:05:08,845 - INFO - {'url': '/static/todo/css/bootstrap.css', 'method': 'GET', 'process_time': 0.03744662799999787}
+2024-02-13 10:05:08,961 - INFO - {'url': '/static/todo/css/base.css', 'method': 'GET', 'process_time': 0.0005551589993046946}
+2024-02-13 10:08:18,370 - INFO - {'url': '/', 'method': 'GET', 'process_time': 0.000518154999554099}
+2024-02-13 10:08:18,544 - INFO - {'url': '/favicon.ico', 'method': 'GET', 'process_time': 0.00033972000073845265}
+2024-02-13 10:08:23,496 - INFO - {'url': '/todos/test', 'method': 'GET', 'process_time': 0.004743488999338297}
+2024-02-13 10:08:23,542 - INFO - {'url': '/static/todo/css/base.css', 'method': 'GET', 'process_time': 0.03547452300063014}
+2024-02-13 10:08:23,543 - INFO - {'url': '/static/todo/css/bootstrap.css', 'method': 'GET', 'process_time': 0.03564986999936082}
+2024-02-13 10:08:32,493 - INFO - {'url': '/todos/test', 'method': 'GET', 'process_time': 0.0005000020000807126}
+2024-02-13 10:08:32,542 - INFO - {'url': '/static/todo/css/base.css', 'method': 'GET', 'process_time': 0.00048419300037494395}
+2024-02-13 10:08:32,558 - INFO - {'url': '/static/todo/css/bootstrap.css', 'method': 'GET', 'process_time': 0.0006130259998826659}
+2024-02-13 10:08:33,570 - INFO - {'url': '/favicon.ico', 'method': 'GET', 'process_time': 0.00036511300004349323}
+2024-02-13 10:16:30,470 - INFO - {'url': '/todos/test', 'method': 'GET', 'process_time': 0.012531573000160279}
+2024-02-13 10:16:30,523 - INFO - {'url': '/static/todo/css/base.css', 'method': 'GET', 'process_time': 0.0008009170005607302}
+2024-02-13 10:16:30,677 - INFO - {'url': '/static/todo/js/jquery-slim.js', 'method': 'GET', 'process_time': 0.000505336000060197}
+2024-02-13 10:16:30,733 - INFO - {'url': '/static/todo/js/popper.js', 'method': 'GET', 'process_time': 0.0006261879998419317}
+2024-02-13 10:16:30,764 - INFO - {'url': '/static/todo/css/bootstrap.css', 'method': 'GET', 'process_time': 0.0005074300006526755}
+2024-02-13 10:16:30,781 - INFO - {'url': '/static/todo/js/bootstrap.js', 'method': 'GET', 'process_time': 0.00047341800018330105}
+2024-02-13 10:16:46,581 - INFO - {'url': '/static/todo/js/popper.min.js.map', 'method': 'GET', 'process_time': 0.000603108000177599}
+2024-02-13 10:16:46,625 - INFO - {'url': '/static/todo/js/bootstrap.js.map', 'method': 'GET', 'process_time': 0.0005594889998974395}
+2024-02-13 10:18:29,342 - INFO - {'url': '/todos/test', 'method': 'GET', 'process_time': 0.0030666309994558105}
+2024-02-13 10:19:24,865 - INFO - {'url': '/todos/test', 'method': 'GET', 'process_time': 0.011564837999685551}
+2024-02-13 10:19:24,918 - INFO - {'url': '/static/todo/css/base.css', 'method': 'GET', 'process_time': 0.0005932879994361429}
+2024-02-13 10:19:25,073 - INFO - {'url': '/static/todo/css/bootstrap.css', 'method': 'GET', 'process_time': 0.0005297430006976356}
+2024-02-14 09:32:14,623 - INFO - {'url': '/todos/test', 'method': 'GET', 'process_time': 0.01854978699975618}
+2024-02-14 09:32:14,715 - INFO - {'url': '/static/todo/css/base.css', 'method': 'GET', 'process_time': 0.03664686600041023}
+2024-02-14 09:32:14,829 - INFO - {'url': '/static/todo/js/jquery-slim.js', 'method': 'GET', 'process_time': 0.0005518360003406997}
+2024-02-14 09:32:14,838 - INFO - {'url': '/static/todo/css/bootstrap.css', 'method': 'GET', 'process_time': 0.0005801409997729934}
+2024-02-14 09:32:14,889 - INFO - {'url': '/static/todo/js/popper.js', 'method': 'GET', 'process_time': 0.00053333300002123}
+2024-02-14 09:32:14,958 - INFO - {'url': '/static/todo/js/bootstrap.js', 'method': 'GET', 'process_time': 0.0005328019997250522}
+2024-02-14 09:32:15,737 - INFO - {'url': '/favicon.ico', 'method': 'GET', 'process_time': 0.00041537900006005657}
+2024-02-14 09:36:37,445 - INFO - {'url': '/todos/test', 'method': 'GET', 'process_time': 0.004655154999909428}
+2024-02-14 09:36:53,423 - INFO - {'url': '/todos/test', 'method': 'GET', 'process_time': 0.00307004699971003}
+2024-02-14 09:37:21,594 - INFO - {'url': '/static/todo/js/popper.min.js.map', 'method': 'GET', 'process_time': 0.04459968299988759}
+2024-02-14 09:37:21,606 - INFO - {'url': '/static/todo/js/bootstrap.js.map', 'method': 'GET', 'process_time': 0.0005065230002401222}
+2024-02-14 09:42:26,582 - INFO - {'url': '/todos/test', 'method': 'GET', 'process_time': 0.004543615000329737}
+2024-02-14 09:43:29,925 - INFO - {'url': '/todos/test', 'method': 'GET', 'process_time': 0.0068224659999032156}
+2024-02-14 09:43:33,756 - INFO - {'url': '/todos/test', 'method': 'GET', 'process_time': 0.0008709690000614501}
+2024-02-14 09:43:42,456 - INFO - {'url': '/todos/test', 'method': 'GET', 'process_time': 0.004673643999922206}
+2024-02-14 09:45:31,498 - INFO - {'url': '/', 'method': 'GET', 'process_time': 0.0004016659995613736}
+2024-02-14 09:45:31,646 - INFO - {'url': '/favicon.ico', 'method': 'GET', 'process_time': 0.0003389020002941834}
+2024-02-14 09:45:35,361 - INFO - {'url': '/todos/test', 'method': 'GET', 'process_time': 0.006552179000209435}
+2024-02-14 09:45:35,415 - INFO - {'url': '/static/todo/js/jquery-slim.js', 'method': 'GET', 'process_time': 0.02692945899980259}
+2024-02-14 09:45:35,415 - INFO - {'url': '/static/todo/js/popper.js', 'method': 'GET', 'process_time': 0.02764768900033232}
+2024-02-14 09:45:35,539 - INFO - {'url': '/static/todo/js/bootstrap.js', 'method': 'GET', 'process_time': 0.0005718660004276899}
+2024-02-14 09:45:35,542 - INFO - {'url': '/static/todo/css/base.css', 'method': 'GET', 'process_time': 0.0005247090002740151}
+2024-02-14 09:45:35,630 - INFO - {'url': '/static/todo/css/bootstrap.css', 'method': 'GET', 'process_time': 0.0005478929997480009}
+2024-02-14 09:46:36,550 - INFO - {'url': '/todos/test', 'method': 'GET', 'process_time': 0.003016943000147876}
+2024-02-14 09:53:36,621 - INFO - {'url': '/todos/test', 'method': 'GET', 'process_time': 0.004775528999743983}
+2024-02-16 09:26:07,927 - INFO - {'url': '/todos/test', 'method': 'GET', 'process_time': 0.012076517999958014}
+2024-02-16 09:26:08,051 - INFO - {'url': '/static/todo/css/base.css', 'method': 'GET', 'process_time': 0.04630568900029175}
+2024-02-16 09:26:08,155 - INFO - {'url': '/static/todo/css/bootstrap.css', 'method': 'GET', 'process_time': 0.0005345789995772066}
+2024-02-16 09:26:08,214 - INFO - {'url': '/static/todo/js/popper.js', 'method': 'GET', 'process_time': 0.00046396800007642014}
+2024-02-16 09:26:08,255 - INFO - {'url': '/static/todo/js/bootstrap.js', 'method': 'GET', 'process_time': 0.0005306220000420581}
+2024-02-16 09:26:08,275 - INFO - {'url': '/static/todo/js/jquery-slim.js', 'method': 'GET', 'process_time': 0.0005463229999804753}
+2024-02-16 09:26:09,032 - INFO - {'url': '/favicon.ico', 'method': 'GET', 'process_time': 0.0003158409999741707}
+2024-02-16 09:30:26,550 - INFO - {'url': '/todos/', 'method': 'GET', 'process_time': 0.018504799999391253}
+2024-02-16 09:30:31,772 - INFO - {'url': '/todos/add-todo', 'method': 'GET', 'process_time': 0.021485899000253994}
+2024-02-16 09:31:29,602 - INFO - {'url': '/todos/edit-todo', 'method': 'GET', 'process_time': 0.005018070000005537}
+2024-02-16 09:31:50,018 - INFO - {'url': '/todos/edit-todo/1', 'method': 'GET', 'process_time': 0.0048375449996456155}
+2024-02-16 09:34:02,613 - INFO - {'url': '/auth', 'method': 'GET', 'process_time': 0.0013196210002206499}
+2024-02-16 09:34:02,643 - INFO - {'url': '/auth/', 'method': 'GET', 'process_time': 0.012678832999881706}
+2024-02-16 09:34:54,275 - INFO - {'url': '/auth/regiser', 'method': 'GET', 'process_time': 0.00047720300062792376}
+2024-02-16 09:34:59,031 - INFO - {'url': '/auth/register', 'method': 'GET', 'process_time': 0.006337439999697381}
+2024-02-16 09:39:16,553 - INFO - {'url': '/auth/', 'method': 'GET', 'process_time': 0.014448603000346338}
+2024-02-16 09:41:02,840 - INFO - {'url': '/auth/', 'method': 'GET', 'process_time': 0.000586875999943004}
+2024-02-16 09:41:07,203 - INFO - {'url': '/auth/register', 'method': 'GET', 'process_time': 0.001634300000660005}
+2024-02-16 09:41:11,863 - INFO - {'url': '/todos/test', 'method': 'GET', 'process_time': 0.0005300789998727851}
+2024-02-16 09:41:14,633 - INFO - {'url': '/todos/', 'method': 'GET', 'process_time': 0.005010040999877674}
+2024-02-16 09:41:18,923 - INFO - {'url': '/todos/add-todo', 'method': 'GET', 'process_time': 0.002255868999782251}
+2024-02-16 09:41:26,388 - INFO - {'url': '/todos/edit-todo/1', 'method': 'GET', 'process_time': 0.001862645000073826}
+2024-02-16 09:43:38,171 - INFO - {'url': '/todos/edit-todo/1', 'method': 'GET', 'process_time': 0.003696533000038471}
+2024-02-16 09:51:10,416 - INFO - {'url': '/todos/', 'method': 'GET', 'process_time': 0.06848879600056534}
+2024-02-16 10:00:10,103 - INFO - {'url': '/todos/add-todo', 'method': 'GET', 'process_time': 0.006412254999304423}
+2024-02-16 10:00:31,895 - INFO - {'url': '/todos/add-todo', 'method': 'POST', 'process_time': 0.03710280299947044}
+2024-02-16 10:01:26,359 - INFO - {'url': '/todos/add-todo', 'method': 'POST', 'process_time': 0.017410203000508773}
+2024-02-16 10:01:30,923 - INFO - {'url': '/todos', 'method': 'GET', 'process_time': 0.00046940799984440673}
+2024-02-16 10:01:30,945 - INFO - {'url': '/todos/', 'method': 'GET', 'process_time': 0.012410505999469024}
+2024-02-16 10:02:56,540 - INFO - {'url': '/todos/add-todo', 'method': 'POST', 'process_time': 0.04590087699943979}
+2024-02-16 10:03:22,020 - INFO - {'url': '/docs', 'method': 'GET', 'process_time': 0.00027793899971584324}
+2024-02-16 10:03:23,196 - INFO - {'url': '/openapi.json', 'method': 'GET', 'process_time': 0.00901463300033356}
+2024-02-16 10:03:48,583 - INFO - {'url': '/todos/add-todo', 'method': 'POST', 'process_time': 0.0011274939997747424}
+2024-02-16 10:04:04,025 - INFO - {'url': '/docs', 'method': 'GET', 'process_time': 0.00021332699998311}
+2024-02-16 10:04:04,772 - INFO - {'url': '/openapi.json', 'method': 'GET', 'process_time': 0.00047067100058484357}
+2024-02-16 10:04:37,057 - INFO - {'url': '/todos/add-todo', 'method': 'POST', 'process_time': 0.042009879000033834}
+2024-02-16 10:05:37,747 - INFO - {'url': '/todos/add-todo', 'method': 'POST', 'process_time': 0.021027722999860998}
+2024-02-16 10:05:55,346 - INFO - {'url': '/todos/add-todo', 'method': 'POST', 'process_time': 0.04842890800046007}
+2024-02-16 10:05:59,812 - INFO - {'url': '/todos/add-todo', 'method': 'GET', 'process_time': 0.006479355999545078}
+2024-02-16 10:06:04,381 - INFO - {'url': '/todos/add-todo', 'method': 'POST', 'process_time': 0.0009302010003011674}
+2024-02-16 10:06:17,612 - INFO - {'url': '/todos/add-todo', 'method': 'GET', 'process_time': 0.00618680499974289}
+2024-02-16 10:06:21,569 - INFO - {'url': '/todos/add-todo', 'method': 'POST', 'process_time': 0.050317381999775534}
+2024-02-16 10:07:00,595 - INFO - {'url': '/todos/add-todo', 'method': 'GET', 'process_time': 0.008837091999339464}
+2024-02-16 10:08:10,392 - INFO - {'url': '/todos/add-todo', 'method': 'POST', 'process_time': 0.03740395300064847}
+2024-02-16 10:08:29,126 - INFO - {'url': '/todos/add-todo', 'method': 'GET', 'process_time': 0.006371073000082106}
+2024-02-16 10:08:39,061 - INFO - {'url': '/todos/add-todo', 'method': 'POST', 'process_time': 0.03621547399961855}
+2024-02-16 10:09:38,473 - INFO - {'url': '/todos/add-todo', 'method': 'GET', 'process_time': 0.006160556000395445}
+2024-02-16 10:09:46,089 - INFO - {'url': '/todos/add-todo', 'method': 'POST', 'process_time': 0.022480392000034044}
+2024-02-16 10:10:20,158 - INFO - {'url': '/todos/add-todo', 'method': 'GET', 'process_time': 0.0014994069997555926}
+2024-02-16 10:10:28,530 - INFO - {'url': '/todos/add-todo', 'method': 'POST', 'process_time': 0.03940694899938535}
+2024-02-16 10:10:28,550 - INFO - {'url': '/todos', 'method': 'GET', 'process_time': 0.0009150560008492903}
+2024-02-16 10:10:28,574 - INFO - {'url': '/todos/', 'method': 'GET', 'process_time': 0.006573150000804162}
+2024-02-16 10:10:31,996 - INFO - {'url': '/todos/edit-todo/1', 'method': 'GET', 'process_time': 0.0019952080001530703}
+2024-02-16 10:14:30,227 - INFO - {'url': '/todos/add-todo', 'method': 'GET', 'process_time': 0.006493548999969789}
+2024-02-16 10:14:43,654 - INFO - {'url': '/todos/add-todo', 'method': 'POST', 'process_time': 0.074701212999571}
+2024-02-16 10:14:43,674 - INFO - {'url': '/todos', 'method': 'GET', 'process_time': 0.00035217499953432707}
+2024-02-16 10:14:43,686 - INFO - {'url': '/todos/', 'method': 'GET', 'process_time': 0.005778351999651932}
+2024-02-16 10:15:27,773 - INFO - {'url': '/todos/', 'method': 'GET', 'process_time': 0.013772967000477365}
+2024-02-16 10:15:29,616 - INFO - {'url': '/todos/add-todo', 'method': 'GET', 'process_time': 0.0016472919996886048}
+2024-02-16 10:18:53,343 - INFO - {'url': '/todos/edit-todo/1', 'method': 'GET', 'process_time': 0.055384571999638865}
+2024-02-16 10:21:48,550 - INFO - {'url': '/todos/edit-todo/1', 'method': 'GET', 'process_time': 0.007895149999967543}
+2024-02-16 10:26:06,377 - INFO - {'url': '/todos/edit-todo/1', 'method': 'GET', 'process_time': 0.045864360999985365}
+2024-02-16 10:26:11,945 - INFO - {'url': '/todos/edit-todo/1', 'method': 'POST', 'process_time': 0.005628929000522476}
+2024-02-16 10:26:27,728 - INFO - {'url': '/todos/edit-todo/1', 'method': 'POST', 'process_time': 0.0015263289988070028}
+2024-02-16 10:26:30,154 - INFO - {'url': '/todos/edit-todo/1', 'method': 'GET', 'process_time': 0.007647882001037942}
+2024-02-16 10:26:36,413 - INFO - {'url': '/todos/edit-todo/1', 'method': 'POST', 'process_time': 0.014867975000015576}
+2024-02-16 10:26:36,428 - INFO - {'url': '/todos', 'method': 'GET', 'process_time': 0.0009190510008920683}
+2024-02-16 10:26:36,452 - INFO - {'url': '/todos/', 'method': 'GET', 'process_time': 0.005687244000000646}
+2024-02-16 10:35:11,347 - INFO - {'url': '/todos/', 'method': 'GET', 'process_time': 0.05077571899892064}
+2024-02-16 10:35:13,873 - INFO - {'url': '/todos/edit-todo/2', 'method': 'GET', 'process_time': 0.008199191001040163}
+2024-02-16 10:35:54,933 - INFO - {'url': '/todos/edit-todo/2', 'method': 'GET', 'process_time': 0.007192009999926086}
+2024-02-16 10:35:56,642 - INFO - {'url': '/todos/edit-todo/delete/2', 'method': 'GET', 'process_time': 0.0006220519990165485}
+2024-02-16 10:36:26,230 - INFO - {'url': '/todos/edit-todo/2', 'method': 'GET', 'process_time': 0.019662182001411566}
+2024-02-16 10:36:28,074 - INFO - {'url': '/delete/2', 'method': 'GET', 'process_time': 0.00033804200029408094}
+2024-02-16 10:37:03,602 - INFO - {'url': '/delete/2', 'method': 'GET', 'process_time': 0.00034795600004144944}
+2024-02-16 10:37:08,600 - INFO - {'url': '/todos/edit-todo/2', 'method': 'GET', 'process_time': 0.00633762600045884}
+2024-02-16 10:37:10,845 - INFO - {'url': '/todos/delete/2', 'method': 'GET', 'process_time': 0.015917775001071277}
+2024-02-16 10:37:10,851 - INFO - {'url': '/todos', 'method': 'GET', 'process_time': 0.0003462449985818239}
+2024-02-16 10:37:10,860 - INFO - {'url': '/todos/', 'method': 'GET', 'process_time': 0.0026520700012042653}
+2024-02-16 10:49:15,840 - INFO - {'url': '/todos/', 'method': 'GET', 'process_time': 0.060474273001091206}
+2024-02-16 10:49:18,337 - INFO - {'url': '/todos/complete/', 'method': 'GET', 'process_time': 0.0008469690001220442}
+2024-02-16 10:49:56,238 - INFO - {'url': '/todos/', 'method': 'GET', 'process_time': 0.01884489499934716}
+2024-02-16 10:49:58,705 - INFO - {'url': '/todos/complete/', 'method': 'GET', 'process_time': 0.0003723209993040655}
+2024-02-16 10:50:42,819 - INFO - {'url': '/static/todo/js/popper.min.js.map', 'method': 'GET', 'process_time': 0.0006808390007790877}
+2024-02-16 10:50:42,891 - INFO - {'url': '/static/todo/js/bootstrap.js.map', 'method': 'GET', 'process_time': 0.0005345450008462649}
+2024-02-16 10:51:17,105 - INFO - {'url': '/todos/', 'method': 'GET', 'process_time': 0.004807414001334109}
+2024-02-16 10:51:19,787 - INFO - {'url': '/todos/complete/1', 'method': 'GET', 'process_time': 0.015197888998955023}
+2024-02-16 10:51:19,793 - INFO - {'url': '/todos', 'method': 'GET', 'process_time': 0.0002902409996750066}
+2024-02-16 10:51:19,800 - INFO - {'url': '/todos/', 'method': 'GET', 'process_time': 0.002418701000351575}
+2024-02-16 10:51:29,802 - INFO - {'url': '/todos/', 'method': 'GET', 'process_time': 0.007878743999754079}
+2024-02-16 10:52:08,437 - INFO - {'url': '/todos/', 'method': 'GET', 'process_time': 0.005233010999290855}
+2024-02-16 10:52:11,053 - INFO - {'url': '/todos/complete/1', 'method': 'GET', 'process_time': 0.0027904990001843544}
+2024-02-16 10:52:11,059 - INFO - {'url': '/todos', 'method': 'GET', 'process_time': 0.0002824889998009894}
+2024-02-16 10:52:11,066 - INFO - {'url': '/todos/', 'method': 'GET', 'process_time': 0.002124711998476414}
+2024-02-16 10:52:12,270 - INFO - {'url': '/todos/complete/1', 'method': 'GET', 'process_time': 0.013525166001272737}
+2024-02-16 10:52:12,277 - INFO - {'url': '/todos', 'method': 'GET', 'process_time': 0.00035162300082447473}
+2024-02-16 10:52:12,284 - INFO - {'url': '/todos/', 'method': 'GET', 'process_time': 0.002050872999461717}
