@@ -5,7 +5,18 @@
             Login
         </div>
         <div class="card-body">
-            <form>
+            <form method="post" action="/auth">
+                {% if msg %}
+                {% if msg == 'Logout Successful' or msg == "User succefully created" %}
+                <div class="alert alert-success" role="alert">
+                    {{msg}}
+                </div>
+                {% else %}
+                <div class="alert alert-danger" role="alert">
+                    {{msg}}
+                </div>
+                {% endif %}
+                {% endif %}
                 <div class="form-group">
                     <label>Username</label>
                     <input type="text" name="email" class="form-control" required>
@@ -18,7 +29,7 @@
             </form>
         </div>
         <div class="card-footer text-muted">
-            <a href="#">Register?</a>
+            <a href="/auth/register">Register?</a>
         </div>
     </div>
 </div>

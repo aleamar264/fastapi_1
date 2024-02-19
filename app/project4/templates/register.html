@@ -5,7 +5,12 @@
             Register
         </div>
         <div class="card-body">
-            <form>
+            {% if msg %}
+            <div class="alert alert-danger" role="alert">
+                {{msg}}
+            </div>
+            {% endif %}
+            <form method="post" action="/auth/register">
                 <div class="form-row">
                     <div class="form-group col-md-6">
                         <label>Email</label>

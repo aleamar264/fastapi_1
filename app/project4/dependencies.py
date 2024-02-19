@@ -3,7 +3,7 @@ from datetime import datetime, timedelta
 from typing import Annotated
 from starlette import status
 from sqlalchemy.orm import Session
-from fastapi import Depends, HTTPException
+from fastapi import Depends, HTTPException, Request
 from fastapi.security import OAuth2PasswordRequestForm, OAuth2PasswordBearer
 from jose import jwt, JWTError
 
@@ -38,17 +38,18 @@ def create_access_token(
 oauth2_bearer = OAuth2PasswordBearer(tokenUrl="auth/token")
 
 
-async def get_current_user(token: Annotated[str, Depends(oauth2_bearer)]):
+async def get_current_user(request: Request):
     try:
+        from routers.auth import logout
+
+        if (token := request.cookies.get("access_token")) is None:
+            return None
         payload = jwt.decode(token, SECRET_KEY, algorithms=[ALGORITHM])
         username: str = payload.get("sub")
         user_id: int = payload.get("id")
         role: str = payload.get("role")
         if username is None or user_id is None:
-            raise HTTPException(
-                status_code=status.HTTP_401_UNAUTHORIZED,
-                detail="Could not validate user.",
-            )
+            await logout(request)
         return {"username": username, "id": user_id, "user_role": role}
     except JWTError as exc:
         raise HTTPException(

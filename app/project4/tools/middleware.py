@@ -1,6 +1,9 @@
 from fastapi import Request
-from tools.logger import logger
+from tools.logger import logger, setup_logging
 import time
+
+
+setup_logging()
 
 
 async def log_middleware(request: Request, call_next):
@@ -13,5 +16,5 @@ async def log_middleware(request: Request, call_next):
         "method": request.method,
         "process_time": process_time,
     }
-    logger.info(log_dict, extra=log_dict)
+    logger.info(log_dict)
     return response
