@@ -7,7 +7,7 @@ url = URL.create(
     drivername="postgresql+psycopg2",
     username="postgres",
     password="postgres",
-    host="db_postgresql",
+    host="127.0.0.1",
     database="Todos",
     port=5432,
 )
